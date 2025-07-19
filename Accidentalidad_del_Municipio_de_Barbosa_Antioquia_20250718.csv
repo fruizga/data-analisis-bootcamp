@@ -1,0 +1,849 @@
+RADICADO,FECHA ACCIDENTE,HORA ACCIDENTE,CLASE ACCIDENTE,GRAVEDAD,CLASIFICACIÓN,DIRECCION,BARRIO,AREA ACCIDENTE,ESTADO DELTIEMPO,No. VICTIMA PEATON,No. VICTIMA ACOMPANANTE,No. VICTIMA PASAJERO,No. VICTIMA CONDUCTOR,No. VICTIMA HERIDO,No. VICTIMA MUERTO
+20504,02/03/0022 12:00:00 AM,6:00:00,Choque,herido,Conductor,km 8+500 entrada vallecitos,Esmeralda,Urbana,Normal,0,0,0,2,2,0
+20521,09/03/0022 12:00:00 AM,8:30:00,Choque,herido,Ciclista-Motociclista,vereda yarumito- km 10 + 700,Esmeralda,Rural,Normal,0,0,0,2,2,0
+20522,02/03/0022 12:00:00 AM,5:05:00,Choque,herido,Ciclista-Motociclista,MATAZANOS  KM 34 + 550,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20528,10/03/0022 12:00:00 AM,20:00:00,Volcamiento,herido,Ciclista-Motociclista,CRA 17 CON CALLE 10,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20529,01/16/2022 12:00:00 AM,19:00:00,Choque,herido,Ciclista-Motociclista,vereda platanito- km 6 + 500,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20532,02/03/0022 12:00:00 AM,7:50:00,Choque,daño,Ciclista-Motociclista,la lomita 1- km 21 + 800 bello-hatillo,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20533,01/16/2022 12:00:00 AM,10:15:00,Choque,herido,Ciclista-Motociclista,PLATANITOKM 7 + 400   LA 70,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20534,01/18/2022 12:00:00 AM,17:30:00,Choque,herido,Ciclista-Motociclista,CRA 21 #04-267,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+20535,08/03/0022 12:00:00 AM,13:20:00,Choque,daño,Ciclista-Motociclista,VEREDA CHICHARRAS-KM 8-RUTA 6205,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20570,08/04/0022 12:00:00 AM,14:20:00,Choque,herido,Ciclista-Motociclista,CALLE 11  CARRERA  17- H.S.V.P,Parq.De Las Aguas,Urbana,Normal,0,0,3,0,3,0
+20575,11/04/0022 12:00:00 AM,14:30:00,Choque,daño,Ciclista-Motociclista,calle 13 con carrera 17,Parque Principal,Urbana,Normal,0,0,0,0,0,0
+20580,02/14/2022 12:00:00 AM,7:30:00,Choque,daño,Ciclista-Motociclista,KM 27 + 600 HATILLO- MATASANOS  LAS ESES,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20581,02/16/2022 12:00:00 AM,19:20:00,Choque,daño,Ciclista-Motociclista,CARRERA 19 CON CALLE 17 PEPE SIERRA 2,Esmeralda,Urbana,Normal,0,0,0,0,0,0
+20582,02/19/2022 12:00:00 AM,19:40:00,Choque,herido,Ciclista-Motociclista,KM 5 + 880 RUTA 62-05 ISAZA,Esmeralda,Rural,Lluvia,0,0,1,1,2,0
+20589,02/25/2022 12:00:00 AM,22:30:00,Choque,herido,Ciclista-Motociclista,km 8 barrio la esmeralda,Esmeralda,Rural,Normal,0,0,0,2,2,0
+20590,02/26/2022 12:00:00 AM,8:20:00,Choque,herido,Ciclista-Motociclista,km 3 + 000 vereda isaza,Esmeralda,Rural,Normal,0,0,0,2,2,0
+20591,02/27/2022 12:00:00 AM,11:30:00,Choque,daño,Ciclista-Motociclista,CALLE 16 CON CRA 14   EURO,Parque Principal,Urbana,Normal,0,0,0,0,0,0
+20537,01/20/2022 12:00:00 AM,13:30:00,Choque,daño,Ciclista-Motociclista,ENTRADA EL ECO-KM 4 + 400,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20538,01/23/2022 12:00:00 AM,10:40:00,Atropello,herido,Ciclista-Motociclista,CRA 14 #15-14,Parque Principal,Urbana,Normal,1,0,0,0,1,0
+20539,01/21/2022 12:00:00 AM,5:45:00,Atropello,herido,Ciclista-Motociclista,6205A KM 8,Esmeralda,Rural,Normal,1,0,0,1,2,0
+20569,06/04/0022 12:00:00 AM,8:40:00,Caida Ocupante,herido,Ciclista-Motociclista,VEREDA LAJAS KM 5,Esmeralda,Rural,Normal,0,0,1,0,1,0
+20880,07/24/2022 12:00:00 AM,13:00:00,Choque,herido,Ciclista-Motociclista,6205 KM 19 + 900 Aprox Retorno pradera,Esmeralda,Rural,Normal,0,0,1,1,2,0
+20882,06/23/2022 12:00:00 AM,21:00:00,Choque,daño,Ciclista-Motociclista,2510 hatillo matasano km 28 +800,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20511,02/03/0022 12:00:00 AM,12:15:00,Choque,daño,Conductor,6205 km 23 VEREDA LA PALMA,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20513,01/03/0022 12:00:00 AM,23:00:00,Volcamiento,herido,Conductor,MOLINO VIEJO,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20516,08/03/0022 12:00:00 AM,23:30:00,Choque,herido,Conductor,6205 KM 8+600 LA ESMERALDA,Esmeralda,Rural,Normal,0,0,1,2,3,0
+20518,09/03/0022 12:00:00 AM,11:30:00,Choque,herido,Conductor,02+900VEREDA EL CORTADO,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20561,01/25/2022 12:00:00 AM,16:24:00,Choque,daño,Ciclista-Motociclista,los blanqueados km 31 + 700 via don matias,Esmeralda,Rural,Niebla,0,0,0,0,0,0
+20562,02/04/0022 12:00:00 AM,6:45:00,Choque,herido,Ciclista-Motociclista,VEREDA EL ECO   KM 4 + 50 TR 6205,Esmeralda,Rural,Normal,0,0,0,2,2,0
+20563,01/26/2022 12:00:00 AM,18:25:00,Choque,daño,Ciclista-Motociclista,brisas del norte  km 29 + 220,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20564,01/26/2022 12:00:00 AM,11:00:00,Volcamiento,daño,Ciclista-Motociclista,via bello-hatillo km 25 + 820,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20592,05/04/0022 12:00:00 AM,16:00:00,Choque,daño,Ciclista-Motociclista,km 35 + 000 sector las cometas,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20629,03/30/2022 12:00:00 AM,10:15:00,Choque,herido,Ciclista-Motociclista,km 6+200 el saladito,Esmeralda,Rural,Normal,0,0,1,1,2,0
+20688,01/07/0022 12:00:00 AM,18:30:00,Choque,herido,Ciclista-Motociclista,KM 5 + 980    VEREDA GRACIANO,Esmeralda,Rural,Normal,0,2,0,2,4,0
+20689,04/07/0022 12:00:00 AM,5:30:00,Atropello,herido,Ciclista-Motociclista,KM 23 + 300,Esmeralda,Rural,Normal,1,0,0,0,1,0
+20690,03/07/0022 12:00:00 AM,22:45:00,Choque,herido,Ciclista-Motociclista,cra 21 calle 4-215 la esmeralda,Esmeralda,Urbana,Normal,0,0,0,2,2,0
+20691,03/07/0022 12:00:00 AM,5:15:00,Choque,herido,Ciclista-Motociclista,KM 6 + 000 ANDERCOL,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20697,10/07/0022 12:00:00 AM,16:00:00,Volcamiento,herido,Ciclista-Motociclista,km 4+300  isaza,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20698,11/07/0022 12:00:00 AM,11:00:00,Volcamiento,herido,Ciclista-Motociclista,CRA 21,Esmeralda,Urbana,Lluvia,0,0,0,1,1,0
+20699,10/07/0022 12:00:00 AM,16:20:00,Volcamiento,herido,Ciclista-Motociclista,KM 8 + 500 CINCO REALES,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20700,09/07/0022 12:00:00 AM,15:40:00,Caida Ocupante,herido,Ciclista-Motociclista,km 4 + 300 el eco,Esmeralda,Rural,Lluvia,0,0,1,0,1,0
+20701,08/07/0022 12:00:00 AM,19:30:00,Volcamiento,herido,Ciclista-Motociclista,vereda isaza,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20702,11/07/0022 12:00:00 AM,16:00:00,Choque,herido,Ciclista-Motociclista,KM 8 +800 RUTA 25 AN 19 PLATANITO,Esmeralda,Rural,Normal,0,0,0,2,2,0
+20734,05/28/2022 12:00:00 AM,16:00:00,Otro,muerte,Ciclista-Motociclista,ruta 6205 km 10 vallecitos,Esmeralda,Rural,Normal,0,0,0,1,0,1
+20735,05/20/2022 12:00:00 AM,13:10:00,Choque,herido,Ciclista-Motociclista,cra 17 #10-34 hospital,Parq.De Las Aguas,Urbana,Normal,0,0,0,2,2,0
+20510,01/03/0022 12:00:00 AM,16:00:00,Atropello,muerte,Conductor,cr 14 Nº15,Esmeralda,Urbana,Normal,1,0,0,0,0,1
+20523,02/03/0022 12:00:00 AM,19:00:00,Choque,herido,Ciclista-Motociclista,la lomita 2  km 21 + 800 bello-hatillo,Esmeralda,Rural,Lluvia,0,0,1,1,2,0
+20606,03/15/2022 12:00:00 AM,16:10:00,Choque,herido,Ciclista-Motociclista,km 0 + 300 via a colkim,Hospital,Rural,Normal,1,0,1,1,3,0
+20746,05/08/0022 12:00:00 AM,3:30:00,Volcamiento,herido,Ciclista-Motociclista,via hatillo cabildo km 9 + 200,Hospital,Rural,Normal,0,0,0,1,1,0
+20747,05/08/0022 12:00:00 AM,4:00:00,Volcamiento,herido,Ciclista-Motociclista,km 4 + 00  vereda el eco,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20748,05/08/0022 12:00:00 AM,10:10:00,Choque,daño,Ciclista-Motociclista,cra 17 #20-17,Hospital,Urbana,Normal,0,0,0,0,0,0
+20749,03/08/0022 12:00:00 AM,16:46:00,Choque,daño,Ciclista-Motociclista,barrio santa monica   calle 13 #18-08,Hospital,Urbana,Normal,0,0,0,0,0,0
+20750,03/08/0022 12:00:00 AM,17:20:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA CHICHARRAS KM 7 + 500 METROS,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20751,03/08/0022 12:00:00 AM,13:50:00,Choque,daño,Ciclista-Motociclista,calle 11 con cra 15  esquina del hospital,Parq.De Las Aguas,Urbana,Normal,0,0,0,0,0,0
+20752,06/08/0022 12:00:00 AM,16:00:00,Caida Ocupante,herido,Ciclista-Motociclista,KM 8 + 500,Hospital,Rural,Normal,0,1,0,0,1,0
+20766,04/08/0022 12:00:00 AM,11:45:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 #10-34 hospital,Parq.De Las Aguas,Urbana,Lluvia,0,0,0,1,1,0
+20767,09/08/0022 12:00:00 AM,5:20:00,Volcamiento,herido,Ciclista-Motociclista,vereda la chorrera,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20768,06/14/2022 12:00:00 AM,21:10:00,Volcamiento,herido,Ciclista-Motociclista,cra 18 con calle 13 barrio santa monica,Hospital,Urbana,Lluvia,0,0,1,0,1,0
+20769,06/14/2022 12:00:00 AM,14:30:00,Volcamiento,herido,Ciclista-Motociclista,km 1 + 300 hatillo  barbosa,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20770,06/14/2022 12:00:00 AM,21:30:00,Volcamiento,herido,Ciclista-Motociclista,cra 18 barrio santa monica,Hospital,Urbana,Lluvia,0,0,1,0,1,0
+20771,11/08/0022 12:00:00 AM,10:20:00,Choque,herido,Ciclista-Motociclista,km 2 +200 criadero villa rita,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20805,06/19/2022 12:00:00 AM,18:50:00,Caida Ocupante,herido,Ciclista-Motociclista,cra 17 #10-34 hospital,Parq.De Las Aguas,Urbana,Normal,0,0,1,0,1,0
+20806,11/08/0022 12:00:00 AM,7:45:00,Volcamiento,herido,Ciclista-Motociclista,hatillo km 00+ 100,Esmeralda,Rural,Lluvia,0,1,0,1,2,0
+20807,06/22/2022 12:00:00 AM,10:20:00,Choque,daño,Ciclista-Motociclista,vereda canaan km 1 barbosa  colkim,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20808,12/08/0022 12:00:00 AM,5:10:00,Choque,herido,Ciclista-Motociclista,vereda graciano y se atien de en el hospital cll #10-34 con cra 17,Esmeralda,Rural,Normal,0,0,1,0,1,0
+20809,06/20/2022 12:00:00 AM,18:10:00,Volcamiento,herido,Ciclista-Motociclista,cra 21,Hospital,Urbana,Normal,0,0,1,1,2,0
+20810,04/09/0022 12:00:00 AM,16:30:00,Volcamiento,herido,Ciclista-Motociclista,RUTA 6220 KM 1 + 300,Esmeralda,Rural,Normal,0,0,1,1,2,0
+20829,02/09/0022 12:00:00 AM,12:10:00,Atropello,herido,Ciclista-Motociclista,cra 14 con calle 13 iglesia san antonio,Esmeralda,Urbana,Normal,1,0,0,0,1,0
+20830,05/09/0022 12:00:00 AM,8:30:00,Choque,herido,Ciclista-Motociclista,km 4+400,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20831,07/09/0022 12:00:00 AM,10:30:00,Volcamiento,herido,Ciclista-Motociclista,KM 1 +300 VEREDA LA CUESTA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20832,04/09/0022 12:00:00 AM,20:30:00,Volcamiento,herido,Ciclista-Motociclista,KM 1 + 100 VIA CONCEPCION VEREDA BUENOS AIRES PARTE ALTA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20530,01/17/2022 12:00:00 AM,13:00:00,Choque,herido,Ciclista-Motociclista,EL ECO KM 4 + 000,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20531,10/03/0022 12:00:00 AM,14:00:00,Choque,herido,Ciclista-Motociclista,LOMA MATAZANOS- KM 25+800 HATILLO-MATAZANOS,Esmeralda,Rural,Normal,0,0,3,1,4,0
+20578,02/14/2022 12:00:00 AM,16:20:00,Atropello,herido,Ciclista-Motociclista,el machete- km 20 + 800 bello hatillo,Esmeralda,Rural,Normal,1,0,0,0,1,0
+20579,02/17/2022 12:00:00 AM,21:00:00,Choque,daño,Ciclista-Motociclista,calle 13 con cra 10   el talego,Parque Principal,Urbana,Normal,0,0,0,0,0,0
+20583,02/19/2022 12:00:00 AM,16:40:00,Atropello,herido,Ciclista-Motociclista,cra 14 con calle 11   centro,Parque Principal,Urbana,Normal,0,0,1,0,1,0
+20736,05/28/2022 12:00:00 AM,17:30:00,Volcamiento,herido,Ciclista-Motociclista,cra17 #140-34 hospital,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20737,05/31/2022 12:00:00 AM,16:00:00,Volcamiento,herido,Ciclista-Motociclista,km 3 aproximadamente vereda el cortado,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20738,05/31/2022 12:00:00 AM,14:20:00,Volcamiento,herido,Ciclista-Motociclista,km 19 aproximadamente  vereda el paraiso,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20739,05/31/2022 12:00:00 AM,8:15:00,Volcamiento,herido,Ciclista-Motociclista,cra 21  y se atiende en el hospìtal,Hospital,Urbana,Normal,0,0,0,1,1,0
+20740,05/31/2022 12:00:00 AM,6:45:00,Volcamiento,herido,Ciclista-Motociclista,km 8 vereda san eugenio,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20741,05/31/2022 12:00:00 AM,8:30:00,Volcamiento,herido,Ciclista-Motociclista,km 3 +500 via hatillo  los lagos,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20742,05/15/2022 12:00:00 AM,14:40:00,Choque,herido,Ciclista-Motociclista,km 27 + 800 las eses  via matazanos,Esmeralda,Rural,Normal,0,0,1,0,1,0
+20743,02/08/0022 12:00:00 AM,9:30:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 #10-34 hospital,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20744,05/21/2022 12:00:00 AM,11:50:00,Volcamiento,herido,Ciclista-Motociclista,km 15 + 500 popalito,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20745,05/22/2022 12:00:00 AM,18:30:00,Volcamiento,herido,Ciclista-Motociclista,KM 15 + 700 POPALITO,Esmeralda,Rural,Normal,0,0,1,1,2,0
+20763,12/08/0022 12:00:00 AM,19:30:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 # 10-34  hospital,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20764,10/08/0022 12:00:00 AM,17:30:00,Volcamiento,herido,Ciclista-Motociclista,km 17 popalito,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20765,11/08/0022 12:00:00 AM,22:30:00,Volcamiento,herido,Ciclista-Motociclista,km 4 + 600 isaza  por los galpones,Esmeralda,Rural,Lluvia,0,1,0,1,2,0
+20780,06/27/2022 12:00:00 AM,2:15:00,Atropello,herido,Ciclista-Motociclista,cra 18 con calle 13  sector la plaza,Esmeralda,Urbana,Normal,2,0,0,0,2,0
+20781,06/20/2022 12:00:00 AM,16:10:00,Caida Ocupante,herido,Ciclista-Motociclista,km4+600 vereda el eco,Esmeralda,Rural,Normal,0,0,1,0,1,0
+20782,06/25/2022 12:00:00 AM,22:15:00,Choque,herido,Ciclista-Motociclista,km6+800 platanito,Esmeralda,Rural,Lluvia,0,0,0,2,2,0
+20783,06/26/2022 12:00:00 AM,5:45:00,Choque,herido,Ciclista-Motociclista,KM 8+500 LOS BUCAROS,Esmeralda,Rural,Viento,0,0,0,1,1,0
+20784,06/25/2022 12:00:00 AM,17:00:00,Choque,herido,Ciclista-Motociclista,km 5 + 700,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20555,01/18/2022 12:00:00 AM,8:30:00,Choque,daño,Ciclista-Motociclista,km 3 + 130,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20556,01/23/2022 12:00:00 AM,18:10:00,Choque,herido,Ciclista-Motociclista,ISAZA KM2+250 CISNEROS -HATILLO,Esmeralda,Rural,Normal,0,0,1,0,1,0
+20557,01/23/2022 12:00:00 AM,12:45:00,Choque,herido,Ciclista-Motociclista,intercambio vial  km 8 +700  hatillo-pradera,Esmeralda,Rural,Normal,0,0,3,2,5,0
+20558,01/23/2022 12:00:00 AM,15:30:00,Choque,herido,Ciclista-Motociclista,KM 12 + 200 HATILLO-PRADAERA  ISAZA,Esmeralda,Rural,Normal,0,0,1,0,1,0
+20559,01/23/2022 12:00:00 AM,8:30:00,Choque,daño,Ciclista-Motociclista,km 35 + 400 via matazanos,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20576,02/13/2022 12:00:00 AM,4:45:00,Choque,muerte,Ciclista-Motociclista,vereda buga,Esmeralda,Rural,Normal,0,0,0,1,0,1
+20600,10/05/0022 12:00:00 AM,0:35:00,Choque,muerte,Ciclista-Motociclista,carrera 21 #4-67 al frente,Esmeralda,Urbana,Normal,0,0,0,2,1,1
+20601,10/05/0022 12:00:00 AM,7:05:00,Volcamiento,herido,Ciclista-Motociclista,vereda isaza  tr 6205A  parcelacion mercurio,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20602,09/05/0022 12:00:00 AM,8:30:00,Choque,daño,Ciclista-Motociclista,calle 2 vereda tamborcito,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20603,04/05/0022 12:00:00 AM,20:20:00,Choque,daño,Ciclista-Motociclista,PUERTO MULERO KM 21+000HATILLO-BELLO,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20609,03/17/2022 12:00:00 AM,6:30:00,Choque,daño,Ciclista-Motociclista,km 4 frente a la entrada de calle 2- tamborcito,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20610,03/18/2022 12:00:00 AM,19:45:00,Volcamiento,herido,Ciclista-Motociclista,vereda chicharras km 7 + 300 aproximadamente,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20611,03/20/2022 12:00:00 AM,19:30:00,Volcamiento,daño,Ciclista-Motociclista,KILOMETRO 7 +800 VEREDA EL CORTADO,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20612,03/20/2022 12:00:00 AM,15:15:00,Choque,herido,Ciclista-Motociclista,tr 6205 km 4 + 800,Esmeralda,Rural,Normal,0,0,1,2,3,0
+20618,03/16/2022 12:00:00 AM,6:00:00,Atropello,herido,Ciclista-Motociclista,km 20 + 600hatillo-bello  el machete,Esmeralda,Rural,Normal,1,1,0,1,3,0
+20619,03/17/2022 12:00:00 AM,13:00:00,Choque,herido,Ciclista-Motociclista,km 20 + 900 via hatillo-bello  puerto mulero,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20620,03/26/2022 12:00:00 AM,14:00:00,Volcamiento,herido,Ciclista-Motociclista,KM 36+400 MATAZANOS,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20524,09/03/0022 12:00:00 AM,12:00:00,Atropello,herido,Ciclista-Motociclista,POPALITO-LA PALMA KM 20,Esmeralda,Rural,Normal,1,0,0,0,1,0
+20525,03/03/0022 12:00:00 AM,18:00:00,Choque,herido,Ciclista-Motociclista,POPALITO KM 15 + 800,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20536,10/03/0022 12:00:00 AM,10:00:00,Choque,daño,Ciclista-Motociclista,tamborcito calle 2- km 12 ruta 6205,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20540,01/24/2022 12:00:00 AM,4:57:00,Choque,daño,Ciclista-Motociclista,ruta 6205 km 10 + 100,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20548,02/03/0022 12:00:00 AM,16:15:00,Choque,daño,Ciclista-Motociclista,Bello-Hatillo km 19 + 550,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20785,06/26/2022 12:00:00 AM,15:00:00,Atropello,herido,Ciclista-Motociclista,cra 15 con cll 11 parque simon bolivar,Esmeralda,Urbana,Normal,1,0,0,0,1,0
+20786,06/21/2022 12:00:00 AM,13:10:00,Atropello,herido,Ciclista-Motociclista,cra 17 #15-61,El Hatillo,Urbana,Viento,1,0,0,0,1,0
+20787,06/19/2022 12:00:00 AM,15:00:00,Choque,daño,Ciclista-Motociclista,cra 18 frente a #11-30 barrio 30 de mayo,Esmeralda,Urbana,Normal,0,0,0,0,0,0
+20788,06/27/2022 12:00:00 AM,15:30:00,Volcamiento,herido,Ciclista-Motociclista,km 1 + 200 via hatillo barbosa  doble calzada,Esmeralda,Rural,Lluvia,0,0,1,1,2,0
+20797,06/22/2022 12:00:00 AM,6:45:00,Volcamiento,herido,Ciclista-Motociclista,barrio villa roca calle 9 con cra 8,Hospital,Urbana,Normal,0,0,0,1,1,0
+20798,06/22/2022 12:00:00 AM,22:15:00,Volcamiento,herido,Ciclista-Motociclista,km6+900 curva del diablo,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20799,06/23/2022 12:00:00 AM,8:20:00,Volcamiento,herido,Ciclista-Motociclista,CRA 15 CON CALLE 10,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20800,06/19/2022 12:00:00 AM,9:00:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA CORRIENTES KM 2,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20801,06/27/2022 12:00:00 AM,20:00:00,Volcamiento,herido,Ciclista-Motociclista,vereda cñada honda km 3+500 via santo domingo,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20802,06/28/2022 12:00:00 AM,3:45:00,Volcamiento,herido,Ciclista-Motociclista,km 3 + 500 v.corrientes,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20803,06/26/2022 12:00:00 AM,15:15:00,Volcamiento,herido,Ciclista-Motociclista,km 10 vereda la tolda,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20804,06/23/2022 12:00:00 AM,14:40:00,Choque,daño,Ciclista-Motociclista,km 10+200 los abuelos,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20823,03/09/0022 12:00:00 AM,12:40:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 #10-34 hospital,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20824,06/30/2022 12:00:00 AM,19:50:00,Caida Ocupante,herido,Ciclista-Motociclista,km 7 + 400,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20825,04/09/0022 12:00:00 AM,17:40:00,Volcamiento,herido,Ciclista-Motociclista,km 1 + 300 vereda la cuesta,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20826,05/09/0022 12:00:00 AM,4:00:00,Volcamiento,herido,Ciclista-Motociclista,calle 17 con cra 17,Esmeralda,Urbana,Normal,0,0,1,0,1,0
+20827,06/09/0022 12:00:00 AM,13:30:00,Volcamiento,herido,Ciclista-Motociclista,km 27  la primavera,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20828,06/30/2022 12:00:00 AM,16:15:00,Choque,herido,Ciclista-Motociclista,calle 16 frente al #14-70,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+20853,03/30/2022 12:00:00 AM,14:00:00,Choque,herido,Ciclista-Motociclista,km 20+95 el machete,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20854,03/24/2022 12:00:00 AM,17:00:00,Volcamiento,daño,Ciclista-Motociclista,isaza km 5 +100,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20855,03/26/2022 12:00:00 AM,11:30:00,Choque,herido,Ciclista-Motociclista,KM 22 + 460 SAN JUDAS,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20856,05/18/2022 12:00:00 AM,22:20:00,Choque,daño,Ciclista-Motociclista,KM 27 VEREDA EL PARAISO,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20857,11/05/0022 12:00:00 AM,8:30:00,Choque,daño,Ciclista-Motociclista,km 30+  400 via matazanos,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20858,03/22/2022 12:00:00 AM,16:10:00,Choque,daño,Ciclista-Motociclista,KM 00+ 200 EL HATILLO,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20864,12/09/0022 12:00:00 AM,19:40:00,Choque,herido,Ciclista-Motociclista,km 8 + 700  aprox  entrada vereda  la playita,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20594,01/05/0022 12:00:00 AM,18:00:00,Choque,herido,Ciclista-Motociclista,PRADERA KM 18+420,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20613,03/24/2022 12:00:00 AM,8:30:00,Choque,daño,Ciclista-Motociclista,CARRERA 21 KM 7 + 800,Esmeralda,Urbana,Normal,0,0,0,0,0,0
+20614,03/24/2022 12:00:00 AM,13:20:00,Choque,herido,Ciclista-Motociclista,KM 2 + 200,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20621,03/26/2022 12:00:00 AM,15:30:00,Volcamiento,herido,Ciclista-Motociclista,km 16 + 800 las lajas,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20622,03/27/2022 12:00:00 AM,11:50:00,Volcamiento,herido,Ciclista-Motociclista,CRA 11 ENTRE CALLE 16 Y 17,Parque Principal,Urbana,Normal,0,0,0,1,1,0
+20623,03/29/2022 12:00:00 AM,8:45:00,Volcamiento,herido,Ciclista-Motociclista,vereda popalito cr 17 de 17,Popalito,Rural,Normal,0,0,0,1,1,0
+20638,02/06/0022 12:00:00 AM,19:45:00,Volcamiento,herido,Ciclista-Motociclista,la chorrera km 3 + 200,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20646,11/06/0022 12:00:00 AM,7:00:00,Caida Ocupante,herido,Ciclista-Motociclista,tamborcito calle 2 frente a numero 873,Esmeralda,Rural,Normal,0,0,1,0,1,0
+20647,11/06/0022 12:00:00 AM,9:20:00,Choque,herido,Ciclista-Motociclista,ruta 25 AN 19 KM 6 + 650 via cabildo,Esmeralda,Rural,Normal,0,0,0,3,3,0
+20652,04/19/2022 12:00:00 AM,12:30:00,Volcamiento,herido,Ciclista-Motociclista,Tm 6205 km 4 + 300 el eco,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20653,04/18/2022 12:00:00 AM,16:00:00,Choque,daño,Ciclista-Motociclista,km 1 de la autopista  corrientes,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20654,04/18/2022 12:00:00 AM,19:00:00,Volcamiento,herido,Ciclista-Motociclista,lomita 1 tr 6205,Esmeralda,Rural,Normal,0,0,1,0,1,0
+20655,04/16/2022 12:00:00 AM,20:05:00,Volcamiento,herido,Ciclista-Motociclista,frente a colombiana kimberly,Hospital,Rural,Normal,0,0,0,1,1,0
+20656,04/13/2022 12:00:00 AM,7:30:00,Volcamiento,herido,Ciclista-Motociclista,km 8 + 800 hatillo-cabildo,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20657,11/06/0022 12:00:00 AM,5:30:00,Volcamiento,herido,Ciclista-Motociclista,carrera14 con calle 15 parque principal,Parque Principal,Urbana,Normal,0,0,0,1,1,0
+20595,05/05/0022 12:00:00 AM,0:05:00,Choque,daño,Ciclista-Motociclista,KM 21 SENTIDO NORTE SUR   EL MACHETE,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20596,03/05/0022 12:00:00 AM,19:00:00,Choque,herido,Ciclista-Motociclista,KM 9 + 500 LOS MANGOS  HATILLO PRADERA,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20597,08/05/0022 12:00:00 AM,11:15:00,Atropello,herido,Ciclista-Motociclista,km 9 TR 25 AN19 HATILLO,Esmeralda,Rural,Normal,1,0,0,0,1,0
+20598,02/04/0022 12:00:00 AM,9:35:00,Choque,daño,Ciclista-Motociclista,KM29+300 VIA BELLO-HATILLO  BRISAS DEL NORTE,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20599,02/26/2022 12:00:00 AM,8:30:00,Choque,herido,Ciclista-Motociclista,KM 10+000 HATILLO-PRADERA PR 10,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20607,03/16/2022 12:00:00 AM,20:10:00,Atropello,herido,Ciclista-Motociclista,km 8 aprox. hatillo,Esmeralda,Rural,Normal,1,0,0,1,2,0
+20608,03/17/2022 12:00:00 AM,17:30:00,Choque,daño,Ciclista-Motociclista,30 de mayo carrera 18 frente al #9-116,Hospital,Urbana,Normal,0,0,0,0,0,0
+20634,03/06/0022 12:00:00 AM,16:20:00,Atropello,herido,Ciclista-Motociclista,vereda aguas claras parte baja  km 1 molino viejo-santo domingo,Esmeralda,Rural,Normal,1,0,0,0,1,0
+20635,03/31/2022 12:00:00 AM,6:50:00,Volcamiento,herido,Ciclista-Motociclista,la lomita1,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20636,03/29/2022 12:00:00 AM,3:00:00,Choque,herido,Ciclista-Motociclista,hatillo,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20637,05/06/0022 12:00:00 AM,17:00:00,Choque,herido,Ciclista-Motociclista,KM 6 + 900 SECTOR LA  ARENERA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20639,04/06/0022 12:00:00 AM,11:02:00,Choque,herido,Ciclista-Motociclista,calle 17 y carrera 10- calle robles,Parque Principal,Urbana,Normal,0,1,0,2,3,0
+20640,06/06/0022 12:00:00 AM,18:40:00,Volcamiento,herido,Ciclista-Motociclista,KM 4  APROXIMADO  VIA A LA CHORRERA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20641,06/06/0022 12:00:00 AM,9:00:00,Choque,herido,Ciclista-Motociclista,KM 19 + 080 VIA HATILLO  PRADERA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20642,06/06/0022 12:00:00 AM,14:20:00,Choque,herido,Ciclista-Motociclista,KM 5 + 900 VIA HATILLO  GIRARDOTA  CARRETERA VIEJA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20643,09/06/0022 12:00:00 AM,6:15:00,Volcamiento,herido,Ciclista-Motociclista,KM 09 +500 VIA A SANTO DOMINGO,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20644,12/06/0022 12:00:00 AM,13:30:00,Volcamiento,herido,Ciclista-Motociclista,cra 10 con calle 10  el hatillo,Parque Principal,Rural,Normal,0,0,1,0,1,0
+20645,07/06/0022 12:00:00 AM,7:30:00,Volcamiento,herido,Ciclista-Motociclista,calle 2 diagonal 2  tamborcito,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20661,03/30/2022 12:00:00 AM,17:30:00,Choque,daño,Ciclista-Motociclista,via medellin-los llanos km 36 + 000 sector botero,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20662,04/06/0022 12:00:00 AM,8:00:00,Choque,daño,Ciclista-Motociclista,medellin llanos de cuiva  km 36+200   cestillal,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20549,03/03/0022 12:00:00 AM,8:00:00,Choque,daño,Ciclista-Motociclista,la montañita km 9 + 880  via hatillo-barbosa,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20550,06/03/0022 12:00:00 AM,8:00:00,Choque,daño,Ciclista-Motociclista,LOS LAVADEROS KM 34 + 400 HATILLO-MATAZANOS,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20551,07/03/0022 12:00:00 AM,11:00:00,Choque,daño,Ciclista-Motociclista,LAS ESES KM 28+560 HATILLO-MATAZANOS,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20552,07/03/0022 12:00:00 AM,15:30:00,Choque,daño,Ciclista-Motociclista,KM 36 + 200 LABADERO BOTERO SOTO,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20553,08/03/0022 12:00:00 AM,21:00:00,Choque,daño,Ciclista-Motociclista,HATILLO-MATAZANOS KM 24 + 050,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20554,01/15/2022 12:00:00 AM,4:30:00,Choque,daño,Ciclista-Motociclista,km 35 + 100 via hatillo-matazanos,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20560,01/30/2022 12:00:00 AM,3:45:00,Choque,daño,Ciclista-Motociclista,kmt 33+750,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20565,01/27/2022 12:00:00 AM,18:08:00,Choque,daño,Ciclista-Motociclista,vereda buga km 8 + 000 hatillo-pradera,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20566,01/30/2022 12:00:00 AM,15:00:00,Choque,herido,Ciclista-Motociclista,km 04 + 00 el eco,Esmeralda,Rural,Normal,0,0,1,2,3,0
+20567,01/30/2022 12:00:00 AM,14:40:00,Choque,daño,Ciclista-Motociclista,barbosa carrera 18 con calle 15,Hospital,Urbana,Normal,0,0,0,0,0,0
+20568,05/04/0022 12:00:00 AM,12:45:00,Choque,herido,Ciclista-Motociclista,CALLE 15 CON CRA 21,Parque Principal,Urbana,Normal,0,0,2,0,2,0
+20571,08/04/0022 12:00:00 AM,17:30:00,Choque,herido,Ciclista-Motociclista,cra 10 entre calle 16 y 17  casa de la cultura,Parque Principal,Urbana,Normal,0,0,0,1,1,0
+20572,09/04/0022 12:00:00 AM,13:50:00,Atropello,herido,Ciclista-Motociclista,vereda platanito tramo 25 AN 19 KM 7 + 500,Esmeralda,Rural,Normal,1,1,0,1,3,0
+20573,10/04/0022 12:00:00 AM,19:00:00,Volcamiento,herido,Ciclista-Motociclista,HATILLO KM 1,Esmeralda,Rural,Normal,0,0,1,0,1,0
+20574,10/04/0022 12:00:00 AM,11:30:00,Choque,daño,Ciclista-Motociclista,calle 13 con cra 13-71,Papelsa,Urbana,Normal,0,0,0,0,0,0
+20577,02/13/2022 12:00:00 AM,22:30:00,Choque,herido,Ciclista-Motociclista,via hatillo  matazanos  sector las cometas km 34 + 540,Esmeralda,Rural,Niebla,0,0,1,0,1,0
+20584,10/04/0022 12:00:00 AM,15:20:00,Choque,daño,Ciclista-Motociclista,KM 33 + 800  LOS LAVADEROS  VIA HATILLO-MATAZANOS,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20585,10/04/0022 12:00:00 AM,20:00:00,Choque,daño,Ciclista-Motociclista,EL MACHETE KM 20 + 100,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20586,02/13/2022 12:00:00 AM,10:00:00,Choque,daño,Ciclista-Motociclista,km 16 + 400popalito  hatillo-pradera,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20587,02/24/2022 12:00:00 AM,14:00:00,Choque,daño,Ciclista-Motociclista,la esmeralda km 8 + 100 la esmeralda,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20588,02/28/2022 12:00:00 AM,11:50:00,Choque,daño,Ciclista-Motociclista,KM 34 + 600 HATILLO-DON MATIAS  LAS COMETAS,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20625,03/28/2022 12:00:00 AM,12:45:00,Volcamiento,herido,Ciclista-Motociclista,calle 10 con cra 17,Parq.De Las Aguas,Urbana,Normal,0,0,1,1,2,0
+20626,03/26/2022 12:00:00 AM,6:50:00,Volcamiento,herido,Ciclista-Motociclista,km 4 + 300 aprox  vereda corrientes,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20627,05/05/0022 12:00:00 AM,8:20:00,Choque,daño,Ciclista-Motociclista,KM 33 + 960,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20593,01/05/0022 12:00:00 AM,13:20:00,Choque,daño,Ciclista-Motociclista,km 1 + 250 el hatillo,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20604,03/14/2022 12:00:00 AM,7:50:00,Choque,herido,Ciclista-Motociclista,km 8 + 500 ruta 6205 entrada a barbosa,Esmeralda,Rural,Normal,0,1,0,0,1,0
+20615,03/21/2022 12:00:00 AM,2:30:00,Volcamiento,herido,Ciclista-Motociclista,calle 15 con cra 9   calle nueva,Parque Principal,Urbana,Normal,0,0,0,1,1,0
+20616,03/21/2022 12:00:00 AM,6:20:00,Choque,herido,Ciclista-Motociclista,tramo 6205 via a porce,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20617,02/24/2022 12:00:00 AM,18:08:00,Choque,daño,Ciclista-Motociclista,intercambio vial hatillo  via medellin los llanos km 23 + 2000,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20658,04/13/2022 12:00:00 AM,7:30:00,Volcamiento,herido,Ciclista-Motociclista,km 21 + 700 san judas,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20659,04/18/2022 12:00:00 AM,19:30:00,Choque,herido,Ciclista-Motociclista,cra 17 calle 11,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20660,08/06/0022 12:00:00 AM,8:05:00,Choque,herido,Ciclista-Motociclista,HATILLO  DON MATIAS KM 3 + 800 SECTOR LOS BLANQUEADOS,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20666,04/19/2022 12:00:00 AM,4:30:00,Volcamiento,herido,Ciclista-Motociclista,via la chorrera   el peñasco,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20667,04/22/2022 12:00:00 AM,21:48:00,Atropello,herido,Ciclista-Motociclista,VIA BARBOSA  HATILLO MK 7  + 300,Esmeralda,Rural,Lluvia,1,0,0,0,1,0
+20668,04/24/2022 12:00:00 AM,14:37:00,Choque,muerte,Ciclista-Motociclista,km 34 + 550 hatillo-matazanos,Esmeralda,Rural,Normal,0,0,0,1,0,1
+20669,04/21/2022 12:00:00 AM,9:05:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA PLATANITO RUTA 25 AN 19,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20670,04/23/2022 12:00:00 AM,13:30:00,Volcamiento,herido,Ciclista-Motociclista,CALLE 12   BARRIO BUENOS AIRES,Parque Principal,Urbana,Normal,0,0,1,0,1,0
+20671,04/20/2022 12:00:00 AM,5:30:00,Volcamiento,herido,Ciclista-Motociclista,via vereda buga,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20672,04/19/2022 12:00:00 AM,7:20:00,Volcamiento,herido,Ciclista-Motociclista,tablemak km 7 + 700 tr 6205,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20673,04/19/2022 12:00:00 AM,21:00:00,Volcamiento,herido,Ciclista-Motociclista,vereda isaza km4+ 700,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20675,04/27/2022 12:00:00 AM,7:30:00,Volcamiento,herido,Ciclista-Motociclista,el hatillo  la maquina,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20680,04/29/2022 12:00:00 AM,18:00:00,Volcamiento,herido,Ciclista-Motociclista,ruta 6205 km 1,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20681,01/07/0022 12:00:00 AM,23:45:00,Volcamiento,herido,Ciclista-Motociclista,km1   tablemac,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20682,02/07/0022 12:00:00 AM,7:30:00,Atropello,herido,Ciclista-Motociclista,HATILLO PLAZOLETA  CASA COMUNAL,Esmeralda,Rural,Viento,0,0,1,0,1,0
+20692,01/07/0022 12:00:00 AM,4:30:00,Volcamiento,herido,Ciclista-Motociclista,corregimiento el hatillo,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20693,01/07/0022 12:00:00 AM,17:30:00,Volcamiento,herido,Ciclista-Motociclista,via hatillo barbosa km 3 aproximadamente,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20694,06/07/0022 12:00:00 AM,19:15:00,Caida Ocupante,herido,Ciclista-Motociclista,VIA 6205 KM 6,Esmeralda,Rural,Lluvia,0,0,1,0,1,0
+20695,08/07/0022 12:00:00 AM,14:30:00,Choque,herido,Ciclista-Motociclista,km 13 + 00 - tamborcito 2,Esmeralda,Rural,Viento,0,0,0,2,2,0
+20648,10/06/0022 12:00:00 AM,18:50:00,Choque,herido,Ciclista-Motociclista,cra 21 frente a #4-347,Hospital,Urbana,Normal,0,0,0,2,2,0
+20649,09/06/0022 12:00:00 AM,14:30:00,Volcamiento,herido,Ciclista-Motociclista,km 3 + 200 vereda isaza,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20650,10/06/0022 12:00:00 AM,19:00:00,Choque,herido,Ciclista-Motociclista,km 5 + 200 vereda isaza,Esmeralda,Rural,Normal,0,0,0,2,2,0
+20651,11/06/0022 12:00:00 AM,7:00:00,Choque,herido,Ciclista-Motociclista,cra 21 con calle 22 aproximadamente  colkim,Hospital,Rural,Normal,0,0,0,1,1,0
+20663,07/06/0022 12:00:00 AM,11:30:00,Choque,muerte,Ciclista-Motociclista,KM 30 + 300 SECTOR LAS ESES,Esmeralda,Rural,Normal,0,0,0,1,0,1
+20664,04/13/2022 12:00:00 AM,14:45:00,Choque,daño,Ciclista-Motociclista,km 34 + 000,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20665,04/20/2022 12:00:00 AM,11:28:00,Choque,daño,Ciclista-Motociclista,RUTA 6205 KM 14 + 400 VEREDA YARUMITO,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20674,04/15/2022 12:00:00 AM,13:00:00,Choque,herido,Ciclista-Motociclista,km 25 +810 sector las eses,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20757,09/08/0022 12:00:00 AM,8:40:00,Choque,herido,Ciclista-Motociclista,cra 21 frente a #9a-50m la 12,Hospital,Urbana,Normal,0,0,0,2,2,0
+20758,05/30/2022 12:00:00 AM,9:00:00,Volcamiento,herido,Ciclista-Motociclista,vereda filo verde  los cordoba,Esmeralda,Rural,Normal,0,0,1,0,1,0
+20759,10/08/0022 12:00:00 AM,5:15:00,Caida Ocupante,herido,Ciclista-Motociclista,vereda corrientes   el eco,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20760,06/13/2022 12:00:00 AM,22:05:00,Choque,herido,Ciclista-Motociclista,cr 21 frente al #19a 11,Esmeralda,Urbana,Lluvia,0,0,4,2,6,0
+20761,11/08/0022 12:00:00 AM,22:30:00,Volcamiento,herido,Ciclista-Motociclista,KM  6 + 500  ISAZA,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20762,10/08/0022 12:00:00 AM,17:30:00,Volcamiento,herido,Ciclista-Motociclista,km 17 popalito,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20812,04/16/2022 12:00:00 AM,14:15:00,Choque,daño,Conductor,Ruta 2510 km 34+500 Hatillo Matasano,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20815,09/06/0022 12:00:00 AM,5:20:00,Choque,daño,Conductor,km 22+300,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20817,04/06/0022 12:00:00 AM,13:50:00,Volcamiento,herido,Conductor,2510 VIA MEDELLIN LOS LLANOS,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20833,11/09/0022 12:00:00 AM,13:30:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA ISAZA KM 1,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20834,09/09/0022 12:00:00 AM,17:40:00,Volcamiento,herido,Ciclista-Motociclista,cra 15 con calle 11,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+20835,05/09/0022 12:00:00 AM,9:30:00,Caida Ocupante,herido,Ciclista-Motociclista,km 00 + 200 via buga,Esmeralda,Rural,Normal,0,0,1,0,1,0
+20836,10/09/0022 12:00:00 AM,1:40:00,Caida Ocupante,herido,Ciclista-Motociclista,km 5 + 600 vereda isaza,Esmeralda,Rural,Normal,0,0,1,0,1,0
+20839,09/09/0022 12:00:00 AM,17:10:00,Atropello,herido,Ciclista-Motociclista,cra 21 con calle 20 #21-602 frente a colkim,Esmeralda,Urbana,Normal,1,0,0,0,1,0
+20840,05/09/0022 12:00:00 AM,12:18:00,Choque,herido,Ciclista-Motociclista,cra 21 con calle 10   30 de mayo,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+20628,03/29/2022 12:00:00 AM,5:20:00,Volcamiento,herido,Ciclista-Motociclista,KM6+750,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20630,03/21/2022 12:00:00 AM,13:20:00,Choque,daño,Ciclista-Motociclista,km 2 + 100,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20631,03/30/2022 12:00:00 AM,12:20:00,Volcamiento,herido,Ciclista-Motociclista,sector la balvanera cra 21 con calle 19,Hospital,Urbana,Normal,0,0,0,1,1,0
+20632,03/31/2022 12:00:00 AM,8:00:00,Volcamiento,herido,Ciclista-Motociclista,via concepcion,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20633,03/31/2022 12:00:00 AM,11:40:00,Choque,daño,Ciclista-Motociclista,carrera 17 con calle 15  la pluma,El Hatillo,Urbana,Normal,0,0,0,0,0,0
+20676,01/07/0022 12:00:00 AM,17:30:00,Choque,herido,Ciclista-Motociclista,RUTA 6205 KM 1 HATILLO,Esmeralda,Rural,Normal,0,1,0,2,3,0
+20677,04/30/2022 12:00:00 AM,7:00:00,Volcamiento,herido,Ciclista-Motociclista,CARRERA 17 CON CALLE 16   BARBOSA,Parque Principal,Urbana,Normal,0,1,0,1,2,0
+20678,01/07/0022 12:00:00 AM,15:30:00,Atropello,herido,Ciclista-Motociclista,KM 20 + 820 HATILLO-BELLO  EL MACHETE,Esmeralda,Rural,Normal,1,0,0,0,1,0
+20679,04/29/2022 12:00:00 AM,19:00:00,Volcamiento,herido,Ciclista-Motociclista,km 3 ruta 6205  hatillo,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20703,11/07/0022 12:00:00 AM,11:30:00,Choque,herido,Ciclista-Motociclista,km 13+00 popalito,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20704,08/07/0022 12:00:00 AM,11:40:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA LA PLAYA PARTE ALTA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20705,05/13/2022 12:00:00 AM,10:00:00,Volcamiento,herido,Ciclista-Motociclista,CRA 21 CON CALLE 10  BARRIO 30 DE MAYO,Hospital,Urbana,Lluvia,0,0,0,1,1,0
+20706,06/07/0022 12:00:00 AM,16:50:00,Choque,herido,Ciclista-Motociclista,KM20+600 EL MACHETE,Esmeralda,Rural,Lluvia,1,0,1,0,2,0
+20725,05/18/2022 12:00:00 AM,5:20:00,Volcamiento,herido,Ciclista-Motociclista,vereda montañita parte alta,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20753,03/08/0022 12:00:00 AM,12:00:00,Choque,herido,Ciclista-Motociclista,km 6 int parcelacion popalito  finca lote 48 E,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20754,01/08/0022 12:00:00 AM,16:30:00,Choque,herido,Ciclista-Motociclista,km 20 + 350 hetillo-bello  el machete,Esmeralda,Rural,Lluvia,0,0,0,2,2,0
+20755,11/08/0022 12:00:00 AM,23:50:00,Choque,daño,Ciclista-Motociclista,km 8 + 700curva de papelsa,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20756,05/08/0022 12:00:00 AM,10:30:00,Choque,daño,Ciclista-Motociclista,el eco km 4,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20778,06/19/2022 12:00:00 AM,10:15:00,Atropello,herido,Conductor,KM 6205KM1+00,Esmeralda,Urbana,Normal,0,0,1,0,1,0
+20779,06/23/2022 12:00:00 AM,21:15:00,Volcamiento,herido,Conductor,6205 KM 14+500 CALZADA SUR-NORTE,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20865,06/27/2022 12:00:00 AM,16:37:00,Choque,herido,Ciclista-Motociclista,KM 15+250 HATILLO-PRADERA  SECTOR POPALITO,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20866,10/09/0022 12:00:00 AM,20:05:00,Choque,herido,Ciclista-Motociclista,KM19+900 BELLO-HATILLO  SECTOR PARQUE DE LAS AGUAS,Esmeralda,Rural,Normal,0,0,1,2,3,0
+20867,07/17/2022 12:00:00 AM,11:00:00,Choque,herido,Ciclista-Motociclista,km 6 + 300 Vereda isaza,Esmeralda,Rural,Normal,0,0,1,1,2,0
+20869,07/15/2022 12:00:00 AM,14:00:00,Choque,daño,Ciclista-Motociclista,ruta 6205 km 16 + 200 Las lajas,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20605,03/14/2022 12:00:00 AM,6:50:00,Volcamiento,herido,Ciclista-Motociclista,km00+800 hatillo,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20712,04/06/0022 12:00:00 AM,13:50:00,Volcamiento,herido,Ciclista-Motociclista,via matazanos los llanos km 28+800,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20713,10/07/0022 12:00:00 AM,16:10:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 con calle 10,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20714,11/07/0022 12:00:00 AM,17:20:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 con calle 10 #10-34,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20715,12/07/0022 12:00:00 AM,20:15:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 con calle 10 #10-34,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20716,05/13/2022 12:00:00 AM,14:50:00,Volcamiento,herido,Ciclista-Motociclista,km 7 + 500 vereda platanito,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20717,05/14/2022 12:00:00 AM,17:35:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 con calle 10 #1034,Parq.De Las Aguas,Urbana,Normal,0,1,0,0,1,0
+20718,05/15/2022 12:00:00 AM,14:10:00,Caida Ocupante,herido,Ciclista-Motociclista,vereda el eco- km 1,Esmeralda,Rural,Normal,0,1,0,0,1,0
+20719,05/17/2022 12:00:00 AM,14:50:00,Volcamiento,herido,Ciclista-Motociclista,barrio aguas calientes,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20720,05/15/2022 12:00:00 AM,19:15:00,Choque,daño,Ciclista-Motociclista,bello hatillo km 0 + 380 glorieta hatillo,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20721,05/18/2022 12:00:00 AM,15:45:00,Volcamiento,herido,Ciclista-Motociclista,san rafael  calle 13,Hospital,Urbana,Lluvia,0,0,0,1,1,0
+20722,05/18/2022 12:00:00 AM,5:30:00,Volcamiento,herido,Ciclista-Motociclista,vereda isaza,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20730,05/26/2022 12:00:00 AM,15:50:00,Choque,daño,Ciclista-Motociclista,km 8 + 500 ruta 6205  detras de  la unidad deportiva,Hospital,Urbana,Normal,0,0,0,0,0,0
+20731,05/26/2022 12:00:00 AM,6:20:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 #10-34  hospital,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20772,06/13/2022 12:00:00 AM,4:30:00,Volcamiento,herido,Conductor,KM 6 VEREDA SAN EUGENIO H.S.V.P,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20775,06/13/2022 12:00:00 AM,5:11:00,Volcamiento,herido,Conductor,KILOMETRO 5+450 METROS,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20776,06/13/2022 12:00:00 AM,5:00:00,Choque,herido,Conductor,6205A HATILLO PRADERA KM 3+400,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20777,04/19/2022 12:00:00 AM,11:30:00,Choque,daño,Conductor,2510 GLORIETA DEL HATILLO KM23+500,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20838,06/23/2022 12:00:00 AM,14:15:00,Volcamiento,herido,Conductor,6205 KM 7+900,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20842,02/26/2022 12:00:00 AM,23:00:00,Choque,daño,Conductor,6205 A KM 15+800,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20844,05/28/2022 12:00:00 AM,5:30:00,Choque,muerte,Conductor,6205- HATILLO PUERTO BERRIO KM 15+950,Esmeralda,Rural,Normal,0,0,0,1,0,1
+20846,03/25/2022 12:00:00 AM,20:00:00,Choque,daño,Conductor,6205A PRADERA HATILLOKM 5+420,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20849,09/05/0022 12:00:00 AM,9:00:00,Choque,daño,Conductor,6205A HATILLO- PRADERA KM 12+050,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20893,07/30/2022 12:00:00 AM,11:30:00,Choque,herido,Ciclista-Motociclista,km3+700 via concepcion (potrerito parte alta),Esmeralda,Rural,Normal,0,1,0,1,2,0
+20894,07/23/2022 12:00:00 AM,19:45:00,Atropello,herido,Ciclista-Motociclista,calle 13  buenos aires,Hospital,Urbana,Normal,1,0,0,0,1,0
+20683,02/06/0022 12:00:00 AM,8:00:00,Choque,daño,Ciclista-Motociclista,via hatillo  pradera km 8 + 700 la montañita,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20684,08/06/0022 12:00:00 AM,23:00:00,Choque,daño,Ciclista-Motociclista,hatillo-matazanos km 26 + 500  la arenera,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20685,01/07/0022 12:00:00 AM,14:00:00,Choque,daño,Ciclista-Motociclista,calle 17 #18-17 barrio santa monica,Hospital,Urbana,Normal,0,0,0,0,0,0
+20686,04/30/2022 12:00:00 AM,13:20:00,Choque,daño,Ciclista-Motociclista,tamborcito calle 2  40 mts,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20687,04/30/2022 12:00:00 AM,10:40:00,Choque,daño,Ciclista-Motociclista,cinco reales km 8 + 500 metros,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20696,02/07/0022 12:00:00 AM,19:45:00,Atropello,herido,Ciclista-Motociclista,km 20 + 000 hatillo. bello,Esmeralda,Rural,Normal,1,0,0,1,2,0
+20773,06/14/2022 12:00:00 AM,19:30:00,Choque,daño,Ciclista-Motociclista,km 1 + 500 via el hatillo,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20870,07/13/2022 12:00:00 AM,17:10:00,Choque,daño,Ciclista-Motociclista,cra 14 frente a # 11 - 51,Esmeralda,Urbana,Normal,0,0,0,0,0,0
+20871,08/09/0022 12:00:00 AM,13:15:00,Choque,daño,Ciclista-Motociclista,cr 14 con calle 15,Esmeralda,Urbana,Normal,0,0,0,0,0,0
+20872,12/09/0022 12:00:00 AM,12:40:00,Volcamiento,herido,Ciclista-Motociclista,Vereda dos quebradas,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20873,11/09/0022 12:00:00 AM,18:50:00,Volcamiento,herido,Ciclista-Motociclista,Vereda yarumito,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20874,07/25/2022 12:00:00 AM,15:00:00,Atropello,herido,Ciclista-Motociclista,calle 11 frente a 17-24,Esmeralda,Urbana,Normal,1,0,0,1,2,0
+20875,07/24/2022 12:00:00 AM,15:25:00,Choque,herido,Ciclista-Motociclista,km 14   vereda yarumito,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20876,07/16/2022 12:00:00 AM,19:20:00,Choque,daño,Ciclista-Motociclista,calle 11 con cra 21  CAS,Esmeralda,Urbana,Normal,0,0,0,0,0,0
+20877,07/14/2022 12:00:00 AM,8:00:00,Choque,daño,Ciclista-Motociclista,km 6 + 200 vereda el saladito,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20878,07/16/2022 12:00:00 AM,13:10:00,Choque,daño,Ciclista-Motociclista,calle 14 con cra 19  barrio santa monica,Hospital,Urbana,Normal,0,0,0,0,0,0
+20879,07/18/2022 12:00:00 AM,21:00:00,Atropello,herido,Ciclista-Motociclista,cra 14 con calle 17   el cristo,Hospital,Urbana,Normal,1,0,0,0,1,0
+20887,07/19/2022 12:00:00 AM,16:45:00,Volcamiento,herido,Ciclista-Motociclista,cra 21 con calle 15 y 16,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+20888,07/18/2022 12:00:00 AM,8:31:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 #10-34,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20889,07/25/2022 12:00:00 AM,16:30:00,Volcamiento,herido,Ciclista-Motociclista,km 5 +750 vereda isaza,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20890,07/22/2022 12:00:00 AM,6:30:00,Volcamiento,herido,Ciclista-Motociclista,calle 17 #07-04 potrerito,Esmeralda,Urbana,Lluvia,0,0,0,1,1,0
+20891,07/20/2022 12:00:00 AM,22:00:00,Volcamiento,herido,Ciclista-Motociclista,vereda el machete,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20892,07/17/2022 12:00:00 AM,13:30:00,Volcamiento,herido,Ciclista-Motociclista,km 2 la montera,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20902,07/18/2022 12:00:00 AM,18:45:00,Volcamiento,herido,Ciclista-Motociclista,KM 0+300,Parque Principal,Rural,Normal,0,1,0,1,2,0
+20903,07/29/2022 12:00:00 AM,6:30:00,Choque,herido,Ciclista-Motociclista,KM 5+ 100 HATILLO-BARBOSA ( ISAZA),Esmeralda,Rural,Normal,0,0,0,2,2,0
+20904,07/31/2022 12:00:00 AM,11:15:00,Atropello,herido,Ciclista-Motociclista,cra 17 #30-34,Parq.De Las Aguas,Urbana,Normal,1,0,0,0,1,0
+20905,07/20/2022 12:00:00 AM,7:00:00,Volcamiento,herido,Ciclista-Motociclista,vereda la chorrera(el ballo),Esmeralda,Rural,Normal,0,0,0,1,1,0
+20906,02/10/0022 12:00:00 AM,16:30:00,Volcamiento,herido,Ciclista-Motociclista,km 8 + 800 papelsa  dos quebradas,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20907,02/10/0022 12:00:00 AM,9:30:00,Volcamiento,herido,Ciclista-Motociclista,vereda tamborcito calle 2,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20908,02/10/0022 12:00:00 AM,21:30:00,Volcamiento,herido,Ciclista-Motociclista,KM 15 + 00 POPALITO,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20909,07/31/2022 12:00:00 AM,12:35:00,Choque,daño,Ciclista-Motociclista,KM6+300 LA CUESTA,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20910,03/10/0022 12:00:00 AM,19:00:00,Otro,herido,Ciclista-Motociclista,calle 20 entre 21 y la 19,Papelsa,Urbana,Normal,0,0,0,1,1,0
+20911,05/10/0022 12:00:00 AM,9:40:00,Volcamiento,herido,Ciclista-Motociclista,km 10 aproximadamente  popalito,Papelsa,Rural,Normal,0,0,0,1,1,0
+20707,08/07/0022 12:00:00 AM,19:50:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA LA CUESTA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20708,09/07/0022 12:00:00 AM,12:30:00,Volcamiento,herido,Ciclista-Motociclista,vereda el eco,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20709,05/15/2022 12:00:00 AM,4:50:00,Otro,herido,Ciclista-Motociclista,el machete km 20+800 bello-hatillo,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20710,05/15/2022 12:00:00 AM,10:50:00,Choque,daño,Ciclista-Motociclista,molino viejo santodomingo km 3   la cuesta,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20896,07/23/2022 12:00:00 AM,18:50:00,Volcamiento,herido,Ciclista-Motociclista,calle 10 #9 entrada a manantial-villa roca,Hospital,Urbana,Normal,0,0,0,1,1,0
+20897,07/16/2022 12:00:00 AM,14:30:00,Choque,daño,Ciclista-Motociclista,km1+600 hatillo,Parque Principal,Rural,Normal,0,0,0,0,0,0
+20898,07/26/2022 12:00:00 AM,18:20:00,Volcamiento,herido,Ciclista-Motociclista,la montañita,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20899,12/09/0022 12:00:00 AM,17:23:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 #10-34,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20900,07/21/2022 12:00:00 AM,16:30:00,Volcamiento,herido,Ciclista-Motociclista,vereda potrerito  via concepcion,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20711,05/15/2022 12:00:00 AM,18:02:00,Choque,herido,Ciclista-Motociclista,ruta 6205 km 7+200,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20726,11/07/0022 12:00:00 AM,9:30:00,Choque,daño,Ciclista-Motociclista,KM 27 + 100 MEDELLIN  LLANOS DE CUIVA-LA ESE,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20727,05/20/2022 12:00:00 AM,5:40:00,Choque,herido,Ciclista-Motociclista,KM 29 + 100 VIA MEDELLIN  LLANOS- BRISAS DEL NORTE,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20728,05/22/2022 12:00:00 AM,19:30:00,Volcamiento,herido,Ciclista-Motociclista,KM 21+700 VEREDA EL PARAISO,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20729,05/25/2022 12:00:00 AM,6:00:00,Volcamiento,herido,Ciclista-Motociclista,calle 12a de carrera 8,Esmeralda,Urbana,Normal,0,0,1,0,1,0
+20732,05/28/2022 12:00:00 AM,17:15:00,Choque,daño,Ciclista-Motociclista,carrera 17 con calle 17 barbosa,Hospital,Urbana,Normal,0,0,0,0,0,0
+20733,05/26/2022 12:00:00 AM,20:30:00,Choque,herido,Ciclista-Motociclista,cra 13 con calle 16 Barbosa,Parque Principal,Urbana,Normal,0,0,0,1,1,0
+20789,06/23/2022 12:00:00 AM,7:00:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 #10-34 hospital,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20793,06/25/2022 12:00:00 AM,19:00:00,Volcamiento,herido,Ciclista-Motociclista,cra 14 con calle 17,Hospital,Urbana,Normal,0,0,0,1,1,0
+20794,06/24/2022 12:00:00 AM,11:42:00,Volcamiento,herido,Ciclista-Motociclista,vereda potrerito km 1,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20795,06/15/2022 12:00:00 AM,17:00:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 con calle 10 30 de mayo,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20796,06/16/2022 12:00:00 AM,21:00:00,Volcamiento,herido,Ciclista-Motociclista,km 3+200 los lagos,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20813,12/06/0022 12:00:00 AM,16:30:00,Choque,herido,Ciclista-Motociclista,KM 27+670 HATILLO MATAZANO,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20814,04/18/2022 12:00:00 AM,15:00:00,Choque,daño,Ciclista-Motociclista,bello- llanoscuiva km 33+500,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20883,09/09/0022 12:00:00 AM,11:20:00,Choque,herido,Ciclista-Motociclista,6205 km 6 + 700 Vereda isaza,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20884,05/18/2022 12:00:00 AM,22:10:00,Choque,daño,Ciclista-Motociclista,via medellin km 30 + 200 via llanos de cuiva,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20885,07/21/2022 12:00:00 AM,11:00:00,Choque,herido,Ciclista-Motociclista,ruta 6205 cl 15 b # 59,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20886,07/18/2022 12:00:00 AM,15:30:00,Atropello,herido,Ciclista-Motociclista,ruta 6205 km 14 + 500 la cejita,Esmeralda,Rural,Normal,1,0,0,1,2,0
+20895,07/22/2022 12:00:00 AM,17:30:00,Choque,herido,Ciclista-Motociclista,km 29 + 750 medellin.llanos de cuiva sector la s,Esmeralda,Rural,Lluvia,0,0,1,0,1,0
+20723,05/15/2022 12:00:00 AM,7:00:00,Volcamiento,herido,Ciclista-Motociclista,km3 + 800   el eco,Esmeralda,Rural,Lluvia,0,1,0,0,1,0
+20724,05/19/2022 12:00:00 AM,9:30:00,Choque,herido,Ciclista-Motociclista,calle 17 con carrera 13,Parque Principal,Urbana,Normal,0,0,1,0,1,0
+20774,06/16/2022 12:00:00 AM,14:15:00,Choque,daño,Ciclista-Motociclista,cra 18 con calle 13 centro,Esmeralda,Urbana,Normal,0,0,0,0,0,0
+20790,04/18/2022 12:00:00 AM,14:00:00,Choque,daño,Ciclista-Motociclista,hatillo-matasano km 3+500,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20791,05/04/0022 12:00:00 AM,1:40:00,Volcamiento,daño,Ciclista-Motociclista,hatillo matasano km 24+500,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20792,12/04/0022 12:00:00 AM,1:20:00,Choque,daño,Ciclista-Motociclista,don matias hatillo km 29+000,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20841,06/09/0022 12:00:00 AM,9:45:00,Choque,herido,Ciclista-Motociclista,km 6 + 800 criogas,Papelsa,Rural,Normal,0,0,0,1,1,0
+20843,07/09/0022 12:00:00 AM,16:20:00,Choque,herido,Ciclista-Motociclista,km 4 + 600 avicola macondo,Papelsa,Rural,Lluvia,0,1,0,1,2,0
+20845,10/09/0022 12:00:00 AM,15:30:00,Choque,herido,Ciclista-Motociclista,carrera 21 con calle 20-19a -la glorieta,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+20847,04/26/2022 12:00:00 AM,7:10:00,Choque,herido,Ciclista-Motociclista,HATILLO BARBOSA KM 7 + 850,Esmeralda,Rural,Normal,0,0,1,1,2,0
+20848,12/09/0022 12:00:00 AM,7:30:00,Choque,herido,Ciclista-Motociclista,CRA 21 CON CALLE 21 Y 22 FRENTE A COLKIM,Esmeralda,Urbana,Normal,0,0,0,2,2,0
+20850,09/09/0022 12:00:00 AM,15:30:00,Volcamiento,herido,Ciclista-Motociclista,KM 1 HACIA LA MONTAÑITA -LA PLAYITA,Esmeralda,Rural,Normal,0,0,3,1,4,0
+20851,08/09/0022 12:00:00 AM,5:30:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA EL PARAISO  EL MACHETE,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20852,10/09/0022 12:00:00 AM,7:50:00,Choque,herido,Ciclista-Motociclista,KM 13+00 POPALITO,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20811,06/23/2022 12:00:00 AM,19:00:00,Volcamiento,herido,Ciclista-Motociclista,vereda platanito  hatillo-cabildo km1,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20816,06/09/0022 12:00:00 AM,15:00:00,Atropello,herido,Ciclista-Motociclista,CRA 21 CON CLL 12 BARRIO CECILIA CABALLERO,Esmeralda,Urbana,Normal,1,0,0,1,2,0
+20818,01/09/0022 12:00:00 AM,21:20:00,Choque,daño,Ciclista-Motociclista,papelsa km 10,Papelsa,Rural,Normal,0,0,0,0,0,0
+20819,01/09/0022 12:00:00 AM,5:30:00,Volcamiento,herido,Ciclista-Motociclista,vereda platanito parte alta,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20820,06/24/2022 12:00:00 AM,16:10:00,Volcamiento,herido,Ciclista-Motociclista,via concepcion,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20822,06/29/2022 12:00:00 AM,10:30:00,Volcamiento,herido,Ciclista-Motociclista,km 3 hatillo,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20859,12/09/0022 12:00:00 AM,21:40:00,Choque,herido,Ciclista-Motociclista,km1 + 300,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20860,07/14/2022 12:00:00 AM,12:20:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA POTRERITO KM 1,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20861,07/14/2022 12:00:00 AM,17:30:00,Volcamiento,herido,Ciclista-Motociclista,CRA 17 CON CALLE 19 - CEMENTERIO,Hospital,Urbana,Normal,0,0,0,1,1,0
+20862,07/14/2022 12:00:00 AM,17:10:00,Choque,herido,Ciclista-Motociclista,KM 8+600,Esmeralda,Rural,Normal,0,1,0,1,2,0
+20863,12/09/0022 12:00:00 AM,20:06:00,Choque,muerte,Ciclista-Motociclista,KM 7 + 500 CHICHARRAS,Esmeralda,Rural,Normal,0,1,0,1,1,1
+20901,07/17/2022 12:00:00 AM,17:30:00,Volcamiento,herido,Ciclista-Motociclista,vereda lajas,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21084,11/20/2022 12:00:00 AM,14:30:00,Choque,herido,Ciclista-Motociclista,km 8 + 800,Esmeralda,Rural,Normal,0,0,3,1,4,0
+21085,11/21/2022 12:00:00 AM,19:50:00,Volcamiento,herido,Ciclista-Motociclista,km08+500 entrada a barbosa por al doble calzada,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21086,11/16/2022 12:00:00 AM,10:00:00,Caida Ocupante,herido,Ciclista-Motociclista,calle 10 con cra 17,Parq.De Las Aguas,Urbana,Normal,0,0,1,0,1,0
+20932,11/10/0022 12:00:00 AM,6:00:00,Choque,herido,Ciclista-Motociclista,6205 km 5 + 900,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21005,09/19/2022 12:00:00 AM,11:00:00,Volcamiento,herido,Ciclista-Motociclista,KM 14 APROXIMADAMENTE -VEREDA LA CUESTA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21006,09/19/2022 12:00:00 AM,11:30:00,Volcamiento,herido,Ciclista-Motociclista,HOSPITAL CRA 17 CON CALLE 10,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+21007,09/20/2022 12:00:00 AM,17:00:00,Volcamiento,herido,Ciclista-Motociclista,vereda la gomez,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21008,09/15/2022 12:00:00 AM,11:38:00,Atropello,herido,Ciclista-Motociclista,CALLE 13 ENTRE CRA 17 Y 18 -AGROISAZA,Esmeralda,Urbana,Normal,1,0,0,0,1,0
+21009,09/19/2022 12:00:00 AM,15:00:00,Volcamiento,herido,Ciclista-Motociclista,KM 1+500 EL ECO,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21040,10/12/0022 12:00:00 AM,13:20:00,Choque,herido,Ciclista-Motociclista,calle nueva cra 8 con calle 16,Parque Principal,Urbana,Normal,0,0,0,1,1,0
+21041,09/12/0022 12:00:00 AM,19:00:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA LA MONTERA,Esmeralda,Rural,Normal,0,0,5,1,6,0
+21042,10/12/0022 12:00:00 AM,8:10:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA LAS VICTORIAS,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21043,12/12/0022 12:00:00 AM,16:30:00,Choque,herido,Ciclista-Motociclista,BARRIO SAN RAFAEL CALLE 13 ENTRE CRA 5 Y 7,Hospital,Urbana,Normal,0,0,0,1,1,0
+21092,11/27/2022 12:00:00 AM,23:40:00,Atropello,herido,Ciclista-Motociclista,vereda el paraiso km 20+830,Esmeralda,Rural,Lluvia,2,0,0,1,3,0
+21093,11/24/2022 12:00:00 AM,19:30:00,Atropello,herido,Ciclista-Motociclista,KM 22+100 LA LOMITA,Esmeralda,Rural,Normal,1,0,0,1,2,0
+21094,11/13/0022 12:00:00 AM,8:00:00,Choque,herido,Ciclista-Motociclista,via bello-hatillo km19+900,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21095,11/27/2022 12:00:00 AM,13:40:00,Volcamiento,herido,Ciclista-Motociclista,CRA 17 CON CALLE 10 HOSPITAL,Parq.De Las Aguas,Urbana,Normal,0,0,1,0,1,0
+20929,08/13/2022 12:00:00 AM,22:15:00,Volcamiento,herido,Ciclista-Motociclista,6205 Km 4 aprox,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20930,04/10/0022 12:00:00 AM,17:30:00,Volcamiento,herido,Ciclista-Motociclista,cr 17 #10 34,Papelsa,Urbana,Normal,0,0,0,1,1,0
+20931,06/18/2022 12:00:00 AM,19:20:00,Choque,daño,Ciclista-Motociclista,2510 bello - hatillo km 20+000,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20945,08/17/2022 12:00:00 AM,10:40:00,Choque,herido,Ciclista-Motociclista,CARRERA 21 CALLE12 BARRIO CECILIA CABALLERO,Papelsa,Urbana,Normal,0,0,0,1,1,0
+20946,08/13/2022 12:00:00 AM,16:00:00,Volcamiento,herido,Ciclista-Motociclista,KILOMETRO 08+100 CURVA PAPELSA,Papelsa,Rural,Normal,0,0,0,1,1,0
+20960,08/27/2022 12:00:00 AM,20:20:00,Atropello,muerte,Ciclista-Motociclista,bello  hatillo km 21+640   las lomitas,Esmeralda,Rural,Normal,1,0,0,0,0,1
+20961,04/11/0022 12:00:00 AM,17:30:00,Choque,herido,Ciclista-Motociclista,VEREDA CAÑADA HONDA KM 2 APROX,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20962,08/24/2022 12:00:00 AM,19:10:00,Choque,herido,Ciclista-Motociclista,bello-hatillo km 19+800 sector parque de las aguas,Esmeralda,Rural,Normal,0,0,1,2,3,0
+20963,08/30/2022 12:00:00 AM,17:00:00,Choque,daño,Ciclista-Motociclista,km1+100 curva de la virgen hatillo,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20964,05/11/0022 12:00:00 AM,14:30:00,Choque,daño,Ciclista-Motociclista,km 1 +100 via hatillo,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20966,04/11/0022 12:00:00 AM,16:00:00,Caida Ocupante,herido,Ciclista-Motociclista,vereda la playa km4,Esmeralda,Rural,Normal,0,1,0,0,1,0
+20967,02/11/0022 12:00:00 AM,10:30:00,Choque,herido,Ciclista-Motociclista,cra 18 con calle 15,Hospital,Urbana,Normal,0,0,0,1,1,0
+20968,01/11/0022 12:00:00 AM,16:10:00,Volcamiento,herido,Ciclista-Motociclista,KM 8+400 ENTRADA A BARBOSA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20969,05/11/0022 12:00:00 AM,12:30:00,Volcamiento,herido,Ciclista-Motociclista,calle 13 barrio el porton,Hospital,Urbana,Normal,0,0,0,1,1,0
+20982,06/11/0022 12:00:00 AM,11:10:00,Choque,daño,Ciclista-Motociclista,calle 4 #4-43 con cra 21,Esmeralda,Urbana,Normal,0,0,0,0,0,0
+20983,09/15/2022 12:00:00 AM,16:40:00,Choque,herido,Ciclista-Motociclista,KM3+200 VEREDA EL SALLADO,Esmeralda,Rural,Normal,0,0,0,2,2,0
+20984,09/19/2022 12:00:00 AM,10:20:00,Choque,herido,Ciclista-Motociclista,km o+400 frutera barbosa  glorieta del hatillo,Esmeralda,Rural,Normal,0,0,1,1,2,0
+20985,09/18/2022 12:00:00 AM,10:00:00,Volcamiento,herido,Ciclista-Motociclista,km 9 + 700 aprox. (popalito),Esmeralda,Rural,Normal,0,0,1,1,2,0
+20986,06/11/0022 12:00:00 AM,11:30:00,Volcamiento,herido,Ciclista-Motociclista,cra 16 con calle20,Hospital,Urbana,Normal,0,0,0,1,1,0
+20987,03/11/0022 12:00:00 AM,20:00:00,Volcamiento,herido,Ciclista-Motociclista,km 1 aprox. (yarumito),Esmeralda,Rural,Normal,0,0,1,0,1,0
+20988,08/30/2022 12:00:00 AM,5:44:00,Volcamiento,herido,Ciclista-Motociclista,km 6 + 40 hatillo-girardota ( marruecos),Esmeralda,Rural,Normal,0,0,0,1,1,0
+20989,08/13/2022 12:00:00 AM,11:00:00,Choque,daño,Ciclista-Motociclista,km2+250 via a santodomingo (vereda la cuesta),Esmeralda,Rural,Normal,0,0,0,0,0,0
+20990,08/27/2022 12:00:00 AM,15:40:00,Choque,daño,Ciclista-Motociclista,km6+600 via hatillo ( el saladito),Esmeralda,Rural,Viento,0,0,0,0,0,0
+20991,08/25/2022 12:00:00 AM,11:00:00,Volcamiento,herido,Ciclista-Motociclista,km 8 aproximadamente,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20944,08/18/2022 12:00:00 AM,15:30:00,Volcamiento,herido,Ciclista-Motociclista,cr 17 # 10 - 34,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20947,12/08/0022 12:00:00 AM,14:00:00,Choque,daño,Ciclista-Motociclista,5079000 hatillo - alto matasano km 30 + 400,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20948,08/13/2022 12:00:00 AM,13:30:00,Volcamiento,herido,Ciclista-Motociclista,6205A km 19 aprox,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20949,08/13/2022 12:00:00 AM,17:50:00,Choque,daño,Ciclista-Motociclista,cra 17 clla 15,Esmeralda,Urbana,Normal,0,0,0,0,0,0
+21044,10/16/2022 12:00:00 AM,9:10:00,Choque,herido,Ciclista-Motociclista,lomita 1 km 22 +450,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21045,10/18/2022 12:00:00 AM,15:50:00,Choque,herido,Ciclista-Motociclista,barriola 12-cra 21 co calle 12,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+21046,08/12/0022 12:00:00 AM,18:30:00,Choque,herido,Ciclista-Motociclista,km 10+900 vereda dos quebradas,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21047,06/12/0022 12:00:00 AM,17:30:00,Choque,herido,Ciclista-Motociclista,VEREDA LA GOMEZ,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+21048,10/17/2022 12:00:00 AM,16:30:00,Choque,herido,Ciclista-Motociclista,via concepcion km 19 + 750,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21049,10/15/2022 12:00:00 AM,14:50:00,Choque,herido,Ciclista-Motociclista,barrio 30 de mayo cra 21 #7A-34,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+21050,10/12/0022 12:00:00 AM,8:00:00,Volcamiento,herido,Ciclista-Motociclista,barrios de jesus cra 17,Hospital,Urbana,Normal,0,0,0,1,1,0
+21051,10/13/2022 12:00:00 AM,12:00:00,Volcamiento,herido,Ciclista-Motociclista,vereda isaza km 7 + 400,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21087,11/22/2022 12:00:00 AM,21:30:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 con calle 10,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+21088,11/22/2022 12:00:00 AM,6:00:00,Choque,herido,Ciclista-Motociclista,KM 8 + 400 ENTRADA A BARBOSA  POR LA DOBLE CALZADA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21089,11/21/2022 12:00:00 AM,18:00:00,Volcamiento,herido,Ciclista-Motociclista,km 20 + 500   via hacia filo verde,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21090,11/19/2022 12:00:00 AM,18:45:00,Atropello,herido,Ciclista-Motociclista,km8 el cortado barbosa,Esmeralda,Rural,Lluvia,1,0,0,0,1,0
+21091,11/17/2022 12:00:00 AM,16:00:00,Choque,herido,Ciclista-Motociclista,la chorrera km 1 via concepcion,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20921,03/10/0022 12:00:00 AM,11:30:00,Choque,herido,Ciclista-Motociclista,km 21+800 bello-hatillo(el machete),Esmeralda,Rural,Normal,0,0,0,1,1,0
+20923,07/10/0022 12:00:00 AM,8:50:00,Atropello,herido,Ciclista-Motociclista,CRA 19 FRENTE AL # 16-34 BARRIO SANTA MONICA,Hospital,Urbana,Normal,1,0,0,0,1,0
+20925,11/10/0022 12:00:00 AM,21:30:00,Atropello,herido,Ciclista-Motociclista,km 8 + 300 hatillo-girardota,Esmeralda,Rural,Normal,1,0,0,1,2,0
+20992,09/14/2022 12:00:00 AM,17:30:00,Volcamiento,herido,Ciclista-Motociclista,km 6 aproximado (isaza),Esmeralda,Rural,Normal,0,0,0,1,1,0
+20993,08/11/0022 12:00:00 AM,7:40:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA EL PARAISO KM 20 APROX.,Esmeralda,Rural,Normal,0,0,1,1,2,0
+20994,08/21/2022 12:00:00 AM,16:30:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 #10-34,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+20995,08/22/2022 12:00:00 AM,17:00:00,Volcamiento,herido,Ciclista-Motociclista,el eco km 4+500 aproximadamente,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20996,08/21/2022 12:00:00 AM,2:25:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 #10-34,Parq.De Las Aguas,Urbana,Normal,0,1,0,0,1,0
+20997,07/23/2022 12:00:00 AM,9:40:00,Choque,daño,Ciclista-Motociclista,puerto mulero km 20+900,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20998,12/08/0022 12:00:00 AM,14:00:00,Choque,daño,Ciclista-Motociclista,brisas del norte  hatillo-matazanos km30+400,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20999,09/11/0022 12:00:00 AM,18:40:00,Choque,daño,Ciclista-Motociclista,vereda canaan km 0+700 via colkim,Hospital,Rural,Normal,0,0,0,0,0,0
+21000,11/11/0022 12:00:00 AM,1:30:00,Caida Ocupante,herido,Ciclista-Motociclista,LA BALVANERA CRA 21 GLORIETA,Hospital,Urbana,Lluvia,0,1,0,0,1,0
+21001,09/17/2022 12:00:00 AM,20:00:00,Atropello,herido,Ciclista-Motociclista,km 17 vereda popalito,Esmeralda,Rural,Normal,1,0,1,0,2,0
+21002,08/17/2022 12:00:00 AM,18:00:00,Choque,daño,Ciclista-Motociclista,VIA HATILLO-MATAZANOS KM6,Esmeralda,Rural,Normal,0,0,0,0,0,0
+21003,09/18/2022 12:00:00 AM,14:00:00,Volcamiento,herido,Ciclista-Motociclista,km 21+00 el machete,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21004,09/18/2022 12:00:00 AM,18:30:00,Volcamiento,herido,Ciclista-Motociclista,KM 5 APROXIMADAMENTE BARBOSA-MOLINO VIEJO,Esmeralda,Rural,Lluvia,0,0,1,1,2,0
+20965,08/31/2022 12:00:00 AM,7:05:00,Choque,herido,Ciclista-Motociclista,km 20 + 900 medellin los llanos,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21052,10/17/2022 12:00:00 AM,10:45:00,Choque,herido,Ciclista-Motociclista,vereda la primavera km 21+950  bello-hatillo,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21053,10/22/2022 12:00:00 AM,6:50:00,Choque,herido,Ciclista-Motociclista,vereda el eco  km4+000,Esmeralda,Rural,Normal,0,0,0,2,2,0
+21054,10/22/2022 12:00:00 AM,6:45:00,Choque,herido,Ciclista-Motociclista,dos quebradas  km10+300,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21055,10/21/2022 12:00:00 AM,16:15:00,Choque,herido,Ciclista-Motociclista,km19+600   parque de las aguas,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21056,03/12/0022 12:00:00 AM,19:40:00,Choque,muerte,Ciclista-Motociclista,vereda el paraiso km 20 + 700  medellin-llanos,Esmeralda,Rural,Normal,0,0,0,1,0,1
+21057,10/24/2022 12:00:00 AM,7:30:00,Volcamiento,herido,Ciclista-Motociclista,vereda la gomez,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21058,10/19/2022 12:00:00 AM,10:30:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA ISAZA KM 05 +600,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21010,09/25/2022 12:00:00 AM,22:40:00,Atropello,herido,Ciclista-Motociclista,cra 17 # 17-01 frente a arizona,Esmeralda,Urbana,Lluvia,0,0,1,0,1,0
+21011,09/28/2022 12:00:00 AM,8:45:00,Volcamiento,herido,Ciclista-Motociclista,CALLE 13 CON CRA 18,Esmeralda,Urbana,Normal,0,0,1,0,1,0
+21012,09/22/2022 12:00:00 AM,7:00:00,Volcamiento,herido,Ciclista-Motociclista,KM 5 VEREDA ISAZA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21059,10/25/2022 12:00:00 AM,19:10:00,Choque,herido,Ciclista-Motociclista,VEREDA EL ECO KM 4 + 150,Esmeralda,Rural,Normal,0,0,0,2,2,0
+21013,09/22/2022 12:00:00 AM,5:20:00,Volcamiento,herido,Ciclista-Motociclista,vereda isaza km 5 aprox..,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21014,09/24/2022 12:00:00 AM,18:30:00,Volcamiento,herido,Ciclista-Motociclista,CRA 17 CON CLLE 10 -HOSPITAL,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+21015,09/28/2022 12:00:00 AM,10:30:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 con calle 10- hospital,Parq.De Las Aguas,Urbana,Normal,0,0,1,1,2,0
+21016,09/25/2022 12:00:00 AM,10:00:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 con calle 10- hospital,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+21017,12/11/0022 12:00:00 AM,9:30:00,Volcamiento,herido,Ciclista-Motociclista,la cuesta parte alta,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21018,02/12/0022 12:00:00 AM,13:50:00,Choque,herido,Ciclista-Motociclista,via barbosa-hatillo km6+400el saladito,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21021,03/12/0022 12:00:00 AM,19:30:00,Volcamiento,herido,Ciclista-Motociclista,km 3  aproximada -vereda el cortado,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21022,03/12/0022 12:00:00 AM,17:30:00,Choque,herido,Ciclista-Motociclista,km 9 (hatillo),Esmeralda,Rural,Normal,0,0,1,1,2,0
+21023,03/12/0022 12:00:00 AM,8:50:00,Choque,herido,Ciclista-Motociclista,CRA 21 CON CLL 15   BARRIO PEPESIERRA II,Hospital,Urbana,Normal,0,1,0,2,3,0
+21024,09/28/2022 12:00:00 AM,4:50:00,Choque,herido,Ciclista-Motociclista,km 6 vereda isaza,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21025,09/30/2022 12:00:00 AM,18:20:00,Choque,muerte,Ciclista-Motociclista,medellin-llanos de cuiva km 28 +880 sector las eses,Esmeralda,Rural,Lluvia,0,0,0,1,0,1
+21029,08/16/2022 12:00:00 AM,15:45:00,Atropello,herido,Ciclista-Motociclista,VEREDA FILO VERDE KM 20+00,Esmeralda,Rural,Normal,2,0,0,0,2,0
+21030,01/12/0022 12:00:00 AM,12:30:00,Choque,daño,Ciclista-Motociclista,VEREDA DOS QUEBRADAS,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+21060,10/24/2022 12:00:00 AM,17:30:00,Choque,herido,Ciclista-Motociclista,calle 11 con cra 17,Esmeralda,Urbana,Lluvia,0,0,0,1,1,0
+21061,01/13/0022 12:00:00 AM,10:00:00,Volcamiento,herido,Ciclista-Motociclista,BARRIO LOS ALMENDROS  CRA 17 CON CALLE 8 APROXIMADAMENTE,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+21062,10/27/2022 12:00:00 AM,9:00:00,Volcamiento,herido,Ciclista-Motociclista,vereda dos quebradas,Papelsa,Rural,Normal,0,0,0,1,1,0
+21063,01/13/0022 12:00:00 AM,15:00:00,Atropello,herido,Ciclista-Motociclista,cra 17 entre calle 10 y 11,Esmeralda,Urbana,Normal,1,0,0,0,1,0
+21064,10/30/2022 12:00:00 AM,18:50:00,Volcamiento,herido,Ciclista-Motociclista,los mangos km 9 + 900,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21065,10/28/2022 12:00:00 AM,12:00:00,Volcamiento,herido,Ciclista-Motociclista,la carrilera km 9 + 00 2do puesto de jugos,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21019,01/12/0022 12:00:00 AM,19:00:00,Volcamiento,herido,Ciclista-Motociclista,cra 17 con calle se atien en hospital,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+21020,04/09/0022 12:00:00 AM,7:50:00,Choque,daño,Ciclista-Motociclista,KM 26+ 250   LAS ESES,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+21026,09/30/2022 12:00:00 AM,8:10:00,Otro,herido,Ciclista-Motociclista,cra 17  deposito el mocho,Esmeralda,Urbana,Viento,0,0,0,1,1,0
+21027,02/12/0022 12:00:00 AM,19:50:00,Volcamiento,herido,Ciclista-Motociclista,km 7 + 200via hatillo girardota-platanito,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21028,02/12/0022 12:00:00 AM,17:30:00,Choque,herido,Ciclista-Motociclista,VEREDA CORRIENTES,Esmeralda,Rural,Normal,0,0,0,2,2,0
+21031,06/12/0022 12:00:00 AM,12:20:00,Volcamiento,herido,Ciclista-Motociclista,vereda manantiales,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21032,09/12/0022 12:00:00 AM,6:00:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA CORRIENTES  EL ECO,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21033,03/12/0022 12:00:00 AM,9:30:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA EL ECO,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21034,06/12/0022 12:00:00 AM,16:00:00,Volcamiento,herido,Ciclista-Motociclista,via molino viejo-santo domingo km 1 + 00,Esmeralda,Rural,Viento,0,0,0,1,1,0
+21066,10/31/2022 12:00:00 AM,9:35:00,Choque,herido,Ciclista-Motociclista,CRA 21   KM 8 + 900   LA ESMERALDA,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+21069,09/07/0022 12:00:00 AM,17:10:00,Choque,herido,Ciclista-Motociclista,km 34 + 450,Esmeralda,Rural,Lluvia,0,0,1,0,1,0
+21070,06/07/0022 12:00:00 AM,19:45:00,Atropello,herido,Ciclista-Motociclista,bello-hatillo km 12 + 100   kando,Esmeralda,Rural,Normal,1,0,0,1,2,0
+21071,10/29/2022 12:00:00 AM,14:50:00,Volcamiento,herido,Ciclista-Motociclista,corregimiento el hatillo km 1,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21072,02/13/0022 12:00:00 AM,19:00:00,Choque,herido,Ciclista-Motociclista,VEREDA EL ECO KM 4,Esmeralda,Rural,Normal,0,0,0,2,2,0
+21073,03/13/0022 12:00:00 AM,12:25:00,Choque,herido,Ciclista-Motociclista,cra 18 con cll 15,Esmeralda,Urbana,Normal,0,0,0,2,2,0
+21074,08/13/0022 12:00:00 AM,8:45:00,Choque,daño,Ciclista-Motociclista,calle 15 frente a #5-60,Parque Principal,Urbana,Normal,0,0,0,0,0,0
+21075,04/13/0022 12:00:00 AM,21:00:00,Volcamiento,herido,Ciclista-Motociclista,RETORNO COLKIM KM 8+500,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21067,04/30/2022 12:00:00 AM,8:00:00,Choque,daño,Ciclista-Motociclista,KM 25+500 VIA MEDELLIN-LLANOS  SECTOR LAS ESES,Esmeralda,Rural,Normal,0,0,0,0,0,0
+21068,02/07/0022 12:00:00 AM,8:00:00,Choque,herido,Ciclista-Motociclista,BELLO-HATILLO KM 22 + 800,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+21081,04/13/0022 12:00:00 AM,23:59:00,Volcamiento,herido,Ciclista-Motociclista,cra 21 con calle 8  30 de mayo,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+21082,11/17/2022 12:00:00 AM,9:00:00,Volcamiento,herido,Ciclista-Motociclista,CRA 21 CON CLL 4,Esmeralda,Urbana,Normal,0,0,1,0,1,0
+20938,08/22/2022 12:00:00 AM,6:10:00,Volcamiento,herido,Ciclista-Motociclista,CARRERA 17 N 10-34,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20939,08/29/2022 12:00:00 AM,15:20:00,Choque,herido,Ciclista-Motociclista,VEREDA CORRIENTE,Papelsa,Rural,Normal,0,0,0,1,1,0
+20940,06/28/2022 12:00:00 AM,15:50:00,Choque,daño,Ciclista-Motociclista,HATILLO DON MATIAS KM 32+700,Papelsa,Rural,Normal,0,0,0,0,0,0
+20941,06/17/2022 12:00:00 AM,14:35:00,Choque,daño,Ciclista-Motociclista,HATILLO -MATASANO KM 27+900,Papelsa,Rural,Normal,0,0,0,0,0,0
+20933,08/16/2022 12:00:00 AM,13:30:00,Atropello,herido,Ciclista-Motociclista,cra 14 - cll 13,Papelsa,Urbana,Normal,1,0,0,0,1,0
+20934,08/22/2022 12:00:00 AM,17:25:00,Choque,muerte,Ciclista-Motociclista,km 11+500 aprox  tamborcito,Esmeralda,Rural,Normal,0,0,1,1,1,1
+20912,01/10/0022 12:00:00 AM,14:00:00,Volcamiento,herido,Ciclista-Motociclista,hatillo km 0 + 300,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20913,04/10/0022 12:00:00 AM,21:30:00,Volcamiento,herido,Ciclista-Motociclista,km 1 molino viejo-via santo domingo,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20914,08/10/0022 12:00:00 AM,5:30:00,Volcamiento,herido,Ciclista-Motociclista,entrada estacion zeus km 1,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20915,07/10/0022 12:00:00 AM,15:30:00,Volcamiento,herido,Ciclista-Motociclista,km 12 salida a yarumito,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20916,08/10/0022 12:00:00 AM,16:00:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA POPALITO KM 18 APROX.,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20917,06/10/0022 12:00:00 AM,16:45:00,Volcamiento,herido,Ciclista-Motociclista,CLL 17 CON CRA 9 APROX  AGUAS CALIENTES,Parque Principal,Urbana,Normal,0,0,0,1,1,0
+20918,08/10/0022 12:00:00 AM,16:00:00,Volcamiento,herido,Ciclista-Motociclista,KM 8 APROX  VIA SANTO DOMINGO  VEREDA LA CUESTA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20935,08/15/2022 12:00:00 AM,18:30:00,Choque,herido,Ciclista-Motociclista,6205 Km +15 +900,Esmeralda,Rural,Lluvia,0,0,1,2,3,0
+20936,08/20/2022 12:00:00 AM,16:00:00,Volcamiento,herido,Ciclista-Motociclista,6205A  KM8+400 LOS BUCAROS,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20942,08/27/2022 12:00:00 AM,14:10:00,Choque,herido,Ciclista-Motociclista,V CORRIENTES KM3+900,Papelsa,Rural,Normal,0,0,0,1,1,0
+20943,12/10/0022 12:00:00 AM,13:00:00,Choque,daño,Ciclista-Motociclista,VEREDA CORRIENTES,Papelsa,Rural,Normal,0,0,0,0,0,0
+21077,12/13/0022 12:00:00 AM,7:30:00,Choque,herido,Ciclista-Motociclista,sector las eses  hatillo-llanos de cuiva km 25 + 200,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20919,03/10/0022 12:00:00 AM,17:20:00,Volcamiento,herido,Ciclista-Motociclista,cr 17 # 10-34,Papelsa,Rural,Normal,0,0,1,0,1,0
+20920,08/10/0022 12:00:00 AM,17:00:00,Volcamiento,herido,Ciclista-Motociclista,25an19  km 6,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20922,07/31/2022 12:00:00 AM,14:50:00,Atropello,herido,Ciclista-Motociclista,6205 a  km + 14 + 300 hatillo,Esmeralda,Rural,Normal,1,0,0,0,1,0
+20924,07/10/0022 12:00:00 AM,14:00:00,Caida Ocupante,herido,Ciclista-Motociclista,6205 km 1 puente hatillo,Esmeralda,Rural,Normal,0,0,1,0,1,0
+20926,06/10/0022 12:00:00 AM,19:00:00,Choque,herido,Ciclista-Motociclista,vereda el paraiso,Papelsa,Rural,Normal,0,0,1,0,1,0
+20927,04/10/0022 12:00:00 AM,9:00:00,Choque,herido,Ciclista-Motociclista,vereda la chorrera,Papelsa,Rural,Normal,0,0,0,1,1,0
+20928,08/10/0022 12:00:00 AM,13:20:00,Choque,herido,Ciclista-Motociclista,6205 km 1 +400,Papelsa,Rural,Normal,0,0,0,2,2,0
+20952,08/30/2022 12:00:00 AM,5:40:00,Volcamiento,herido,Ciclista-Motociclista,km8+500,Papelsa,Rural,Normal,0,0,0,1,1,0
+20953,08/27/2022 12:00:00 AM,13:00:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA LA CHORRERA,Papelsa,Rural,Normal,0,0,0,0,1,0
+20970,01/11/0022 12:00:00 AM,7:00:00,Volcamiento,herido,Ciclista-Motociclista,vereda las peñas,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20971,11/10/0022 12:00:00 AM,4:30:00,Choque,daño,Ciclista-Motociclista,KM 26+ 100 LAS ESES,Esmeralda,Rural,Lluvia,0,0,0,0,0,0
+20972,09/14/2022 12:00:00 AM,10:15:00,Volcamiento,muerte,Ciclista-Motociclista,KM 10 + 900 VEREDA DOSQUEBRADAS VIA INGRESO KM 1 + 800,Esmeralda,Rural,Normal,0,0,2,1,2,1
+20975,09/17/2022 12:00:00 AM,20:20:00,Choque,herido,Ciclista-Motociclista,cra 21 enrtre calle 3 y 4 aprox,Esmeralda,Urbana,Normal,0,0,2,1,3,0
+20976,09/18/2022 12:00:00 AM,8:50:00,Choque,herido,Ciclista-Motociclista,km 7+400 ingreso vereda graciano,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20977,09/15/2022 12:00:00 AM,23:10:00,Choque,herido,Ciclista-Motociclista,km3+600 isaza,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20978,01/11/0022 12:00:00 AM,11:50:00,Volcamiento,herido,Ciclista-Motociclista,km7+200 sector el saladito,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20979,09/18/2022 12:00:00 AM,21:30:00,Choque,herido,Ciclista-Motociclista,km 7 +900 sector tablemak,Esmeralda,Rural,Lluvia,0,0,1,2,3,0
+20980,09/17/2022 12:00:00 AM,18:10:00,Choque,daño,Ciclista-Motociclista,tramo potrerito km 0 + 200 aproximado,Esmeralda,Rural,Normal,0,0,0,0,0,0
+20981,03/11/0022 12:00:00 AM,19:35:00,Choque,herido,Ciclista-Motociclista,KM 8 + 500 APROXIMADO  LOS BUCAROS,Esmeralda,Rural,Normal,0,0,2,1,3,0
+21035,06/12/0022 12:00:00 AM,18:40:00,Volcamiento,herido,Ciclista-Motociclista,via hatillo girardota km 6 + 500 vereda platanito,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21036,09/12/0022 12:00:00 AM,16:00:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA LA PALMA KM 19 APROXIMADAMENTE,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21037,09/29/2022 12:00:00 AM,16:40:00,Volcamiento,herido,Ciclista-Motociclista,vereda platanito,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21038,05/12/0022 12:00:00 AM,10:50:00,Choque,herido,Ciclista-Motociclista,cra 21 con calle 19  barrio pepe sierra I,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+21039,09/12/0022 12:00:00 AM,13:00:00,Atropello,herido,Ciclista-Motociclista,CRA 17 ENTRE CALLE 19 Y 20,Esmeralda,Urbana,Normal,1,0,0,1,2,0
+20937,04/10/0022 12:00:00 AM,14:20:00,Choque,herido,Ciclista-Motociclista,VIA HATILLO - LA PRADERA KM 10+400,Esmeralda,Rural,Normal,0,0,0,2,2,0
+20956,08/19/2022 12:00:00 AM,20:05:00,Volcamiento,muerte,Ciclista-Motociclista,barbosa-concepcion km 12 aprox. (la chapa parte baja),Esmeralda,Rural,Lluvia,0,0,3,1,3,1
+20957,08/29/2022 12:00:00 AM,11:20:00,Atropello,herido,Ciclista-Motociclista,calle 11 con cra 14  centro,Esmeralda,Urbana,Normal,1,0,0,0,1,0
+20958,08/29/2022 12:00:00 AM,5:30:00,Choque,herido,Ciclista-Motociclista,km 4 + 300 vereda el eco,Esmeralda,Rural,Lluvia,0,0,0,2,2,0
+20959,11/10/0022 12:00:00 AM,8:20:00,Choque,herido,Ciclista-Motociclista,KM 5+500 VEREDA ISAZA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20973,01/11/0022 12:00:00 AM,5:20:00,Volcamiento,herido,Ciclista-Motociclista,km 7+500 vereda chicharras,Esmeralda,Rural,Normal,0,0,0,1,1,0
+20974,08/21/2022 12:00:00 AM,12:35:00,Volcamiento,herido,Ciclista-Motociclista,HOSPITAL,Parq.De Las Aguas,Urbana,Normal,0,0,0,1,1,0
+21076,06/12/0022 12:00:00 AM,19:10:00,Choque,herido,Ciclista-Motociclista,sector villa maria km 35 +600,Esmeralda,Rural,Lluvia,0,0,2,0,2,0
+21083,11/13/2022 12:00:00 AM,19:15:00,Atropello,herido,Ciclista-Motociclista,calle 16 con cra 14-08,Esmeralda,Urbana,Lluvia,1,0,0,0,1,0
+20950,08/28/2022 12:00:00 AM,0:10:00,Choque,herido,Ciclista-Motociclista,HATILLO-PRADERA KM15+200 (POPALITO),Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+20954,08/31/2022 12:00:00 AM,7:55:00,Choque,herido,Ciclista-Motociclista,cra 21 via colkim,Hospital,Urbana,Lluvia,0,0,1,0,1,0
+20955,04/11/0022 12:00:00 AM,12:35:00,Choque,herido,Ciclista-Motociclista,KM7+500 VEREDA CHICHARRAS,Esmeralda,Rural,Normal,0,0,3,3,6,0
+21078,11/15/2022 12:00:00 AM,5:40:00,Choque,herido,Ciclista-Motociclista,LOS LAVADEROS KM 7 + 500,Esmeralda,Rural,Normal,0,0,0,2,2,0
+21079,09/13/0022 12:00:00 AM,9:00:00,Volcamiento,herido,Ciclista-Motociclista,asilo el buen samaritano  san rafael parte alta  via concepcion,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21080,11/13/2022 12:00:00 AM,14:30:00,Volcamiento,herido,Ciclista-Motociclista,km 8 + 500   los abuelos,Esmeralda,Urbana,Normal,0,0,1,1,2,0
+21148,01/10/2023 12:00:00 AM,13:35:00,Choque,herido,Ciclista-Motociclista,km 8+793 sector la playita,Papelsa,Rural,Normal,0,0,0,1,1,0
+21162,01/09/2023 12:00:00 AM,18:15:00,Atropello,herido,Ciclista-Motociclista,PUERTO MULERO KM 21+050 BARBOSA,Esmeralda,Rural,Normal,1,1,0,1,3,0
+21164,01/17/2023 12:00:00 AM,9:05:00,Choque,herido,Ciclista-Motociclista,pradera km 17+692 porce barbosa,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21146,01/12/2023 12:00:00 AM,19:30:00,Atropello,herido,Conductor,km 10+300 apox,Papelsa,Rural,Normal,0,0,1,0,1,0
+21194,02/16/2023 12:00:00 AM,11:00:00,Choque,herido,Conductor,vereda guayabal,Vereda Guayabal,Rural,Normal,0,1,0,0,1,0
+21195,02/21/2023 12:00:00 AM,5:10:00,Volcamiento,herido,Ciclista-Motociclista,autopista norte km 23 ruta 2510,Papelsa,Rural,Normal,0,0,0,1,1,0
+21279,05/22/2023 12:00:00 AM,6:30:00,Choque,herido,Conductor,KM 7 +800 APROX,Papelsa,Rural,Normal,0,0,0,1,1,0
+21280,05/27/2023 12:00:00 AM,16:30:00,Choque,herido,Ciclista-Motociclista,via medellin- los llanos km 31+050,Papelsa,Rural,Normal,0,1,0,1,2,0
+21135,01/01/2023 12:00:00 AM,16:00:00,Choque,herido,Ciclista-Motociclista,via hatillo- pradera km 1+450,Papelsa,Rural,Normal,0,0,2,0,2,0
+21160,01/22/2023 12:00:00 AM,9:35:00,Volcamiento,herido,Ciclista-Motociclista,2510 km 8 + 500,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21165,01/21/2023 12:00:00 AM,11:30:00,Choque,herido,Ciclista-Motociclista,2510 km 9+200,Papelsa,Rural,Normal,0,0,0,1,1,0
+21197,02/19/2023 12:00:00 AM,10:40:00,Volcamiento,herido,Conductor,VEREDA LA LOMITA,Papelsa,Rural,Normal,0,1,0,0,1,0
+21198,02/20/2023 12:00:00 AM,22:50:00,Choque,herido,Ciclista-Motociclista,LA ESE KM 32+500,Papelsa,Rural,Lluvia,0,1,0,0,1,0
+21329,07/16/2023 12:00:00 AM,22:00:00,Choque,herido,Ciclista-Motociclista,PUERTO MULERO KM 21+00 RUTA 2510 BELLO HATILLO,Esmeralda,Rural,Lluvia,0,0,3,0,3,0
+21330,07/16/2023 12:00:00 AM,17:50:00,Choque,herido,Ciclista-Motociclista,km 17 + 500 vereda lajas,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21411,10/23/2023 12:00:00 AM,9:50:00,Choque,herido,Ciclista-Motociclista,carrera 13 con calle 16,Papelsa,Urbana,Normal,0,0,1,0,1,0
+21157,01/10/2023 12:00:00 AM,3:15:00,Volcamiento,herido,Ciclista-Motociclista,km 4 via platanito,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21158,01/20/2023 12:00:00 AM,14:36:00,Choque,herido,Ciclista-Motociclista,cr 13 #12-18,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21193,02/17/2023 12:00:00 AM,7:30:00,Caida Ocupante,muerte,Ciclista-Motociclista,sincorreales km 9+800,Papelsa,Rural,Lluvia,0,0,0,1,0,1
+21384,09/16/2023 12:00:00 AM,5:30:00,Choque,herido,Ciclista-Motociclista,vivero km 11+ 200 recta el leon,Esmeralda,Rural,Viento,0,0,0,2,2,0
+21385,09/14/2023 12:00:00 AM,16:30:00,Choque,herido,Ciclista-Motociclista,LAS S KM 29+ 750 BLANQUILLOS,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21386,09/06/2023 12:00:00 AM,17:15:00,Choque,herido,Ciclista-Motociclista,EL MACHETE VIA HATILLO- BELLO RUTA 2510 KM 20+800,Esmeralda,Rural,Normal,0,1,0,2,3,0
+21387,09/17/2023 12:00:00 AM,14:40:00,Volcamiento,herido,Ciclista-Motociclista,LA CUESTA VIA SANTO DOMINGO LA CUESTA BARBOSA,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21237,04/10/2023 12:00:00 AM,14:55:00,Choque,herido,Ciclista-Motociclista,ruta 6205 km 27+500,Papelsa,Rural,Normal,0,1,0,1,2,0
+21238,03/28/2023 12:00:00 AM,10:50:00,Volcamiento,herido,Ciclista-Motociclista,hatillo barbosa km 4+100 barbosa,Papelsa,Rural,Normal,0,1,0,1,2,0
+21281,05/17/2023 12:00:00 AM,7:40:00,Choque,herido,Ciclista-Motociclista,KM33+950 VIA MEDELLIN- LLANOS DE CUIBA,Papelsa,Rural,Lluvia,0,0,0,1,1,0
+21202,02/17/2023 12:00:00 AM,16:25:00,Choque,herido,Ciclista-Motociclista,carrera 21 #4-39,Papelsa,Urbana,Normal,0,0,0,2,2,0
+21240,04/24/2023 12:00:00 AM,6:20:00,Volcamiento,herido,Ciclista-Motociclista,ruta 25a19 km 7+500,Papelsa,Rural,Normal,0,0,0,1,1,0
+21241,04/08/2023 12:00:00 AM,8:00:00,Volcamiento,herido,Ciclista-Motociclista,vereda la calda km 13,Vereda La Calda,Rural,Normal,0,0,0,1,1,0
+21242,04/08/2023 12:00:00 AM,5:45:00,Volcamiento,herido,Ciclista-Motociclista,6205 km 6+00,Papelsa,Rural,Normal,0,0,0,1,1,0
+21243,04/12/2023 12:00:00 AM,9:45:00,Volcamiento,herido,Ciclista-Motociclista,6205 km 4+000 via hatillo,Papelsa,Rural,Normal,0,0,0,1,1,0
+21244,04/23/2023 12:00:00 AM,22:00:00,Volcamiento,herido,Ciclista-Motociclista,calle 15 # 34-24,Papelsa,Urbana,Lluvia,0,1,0,0,1,0
+21245,04/08/2023 12:00:00 AM,20:00:00,Choque,herido,Ciclista-Motociclista,via eco tr 602 km 4,Papelsa,Rural,Normal,0,0,0,2,2,0
+21249,04/08/2023 12:00:00 AM,9:05:00,Choque,herido,Ciclista-Motociclista,6205 km 8+500,Papelsa,Rural,Normal,0,0,0,1,1,0
+21251,04/27/2023 12:00:00 AM,1:45:00,Choque,herido,Ciclista-Motociclista,via barbosa- hartillo km 1+600,Papelsa,Rural,Lluvia,0,0,0,1,1,0
+21252,04/18/2023 12:00:00 AM,0:00:00,Atropello,herido,Ciclista-Motociclista,entrada vereda vallecitos,Papelsa,Rural,Normal,1,0,0,0,1,0
+21388,09/18/2023 12:00:00 AM,14:00:00,Choque,herido,Ciclista-Motociclista,vereda tamborcito km 11 aproximada,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21389,09/17/2023 12:00:00 AM,23:00:00,Choque,herido,Ciclista-Motociclista,VEREDA EL  ECO 6205 KM 4,Esmeralda,Rural,Normal,0,0,0,2,2,0
+21390,09/15/2023 12:00:00 AM,20:00:00,Atropello,herido,Ciclista-Motociclista,VEREDA PLATANITO KM 8,Esmeralda,Rural,Normal,1,0,0,1,2,0
+21169,01/30/2023 12:00:00 AM,21:45:00,Volcamiento,herido,Ciclista-Motociclista,carrera 21 entre calles 17 y 18,Papelsa,Urbana,Normal,0,0,0,1,1,0
+21170,01/29/2023 12:00:00 AM,11:10:00,Volcamiento,herido,Conductor,hospital,Papelsa,Urbana,Normal,0,0,0,1,1,0
+21208,03/02/2023 12:00:00 AM,10:14:00,Choque,herido,Ciclista-Motociclista,frente al hospital,Parque de las Aguas,Urbana,Normal,0,0,0,1,1,0
+21239,03/28/2023 12:00:00 AM,19:00:00,Volcamiento,herido,Ciclista-Motociclista,VIA 6205 + KILOMETRO 9,Papelsa,Rural,Lluvia,0,0,0,1,1,0
+21331,07/15/2023 12:00:00 AM,9:30:00,Atropello,herido,Ciclista-Motociclista,vereda la gomez via el eco km 4 + 200,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21332,07/15/2023 12:00:00 AM,8:00:00,Choque,herido,Ciclista-Motociclista,HATILLO BELLO KM 20 +800 EL MACHETE,Esmeralda,Rural,Normal,0,0,1,2,3,0
+21360,08/08/2023 12:00:00 AM,15:55:00,Choque,herido,Ciclista-Motociclista,LOS LAVADEROS K 0 7 + 600 CR 21 # 02 -124,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21246,04/08/2023 12:00:00 AM,17:00:00,Atropello,herido,Ciclista-Motociclista,cra 14# 15 frente de # 52,Esmeralda,Urbana,Normal,1,0,0,0,1,0
+21247,04/09/2023 12:00:00 AM,5:25:00,Choque,herido,Ciclista-Motociclista,tr 25 an 19 km 7 + 900,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21248,04/19/2023 12:00:00 AM,16:10:00,Choque,herido,Ciclista-Motociclista,2510 km 21 + 400,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21250,04/25/2023 12:00:00 AM,14:42:00,Choque,herido,Ciclista-Motociclista,km 2 + 200,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21361,08/10/2023 12:00:00 AM,14:30:00,Choque,herido,Ciclista-Motociclista,LOS ABUELOS CLL 21 X CR 17 (AUT 6205 KM 9+200),Esmeralda,Urbana,Normal,0,1,0,1,2,0
+21362,08/10/2023 12:00:00 AM,17:35:00,Choque,herido,Ciclista-Motociclista,VEREDA ISAZA KM 5+900 APROX,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21396,09/26/2023 12:00:00 AM,14:35:00,Choque,herido,Ciclista-Motociclista,sector la maquina,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21397,09/24/2023 12:00:00 AM,18:00:00,Caida Ocupante,herido,Ciclista-Motociclista,no reporta,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21159,01/21/2023 12:00:00 AM,5:30:00,Volcamiento,herido,Conductor,km0+800,Papelsa,Rural,Normal,0,0,0,1,1,0
+21341,01/09/2023 12:00:00 AM,11:00:00,Choque,herido,Ciclista-Motociclista,hatillo llanos de cubio km 28 + 900 ryta 2510 estadero brisas del norte,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21342,05/04/2023 12:00:00 AM,23:30:00,Choque,daño,Ciclista-Motociclista,puerto mulero bello llanos cubia km 25+00 barbosa,Esmeralda,Rural,Normal,,,,,,
+21343,01/03/2023 12:00:00 AM,11:00:00,Choque,daño,Ciclista-Motociclista,isaza via hatillo pradera km 04+500 ruta 6205a,Esmeralda,Rural,Normal,,,,,,
+21344,01/05/2023 12:00:00 AM,1:10:00,Choque,daño,Ciclista-Motociclista,VIA HATILLO PRADERA KM 3+500,Esmeralda,Rural,Normal,,,,,,
+21179,01/18/2023 12:00:00 AM,9:20:00,Volcamiento,herido,Ciclista-Motociclista,Vereda el saladito,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21356,07/31/2023 12:00:00 AM,13:15:00,Choque,herido,Ciclista-Motociclista,TAMBORCITO CALLE 2,Esmeralda,Rural,Normal,0,1,0,2,3,0
+21357,07/29/2023 12:00:00 AM,22:20:00,Volcamiento,herido,Ciclista-Motociclista,LA PLAYITA VIA LA MONTAÑITA,Esmeralda,Rural,Viento,0,0,0,1,1,0
+21358,07/29/2023 12:00:00 AM,21:50:00,Choque,herido,Ciclista-Motociclista,EL BALLO VIA LA CHORRERA,Esmeralda,Rural,Viento,0,0,0,1,1,0
+21359,07/27/2023 12:00:00 AM,8:30:00,Choque,herido,Ciclista-Motociclista,VEREDA ISAZA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21368,08/24/2023 12:00:00 AM,10:10:00,Atropello,herido,Ciclista-Motociclista,vereda el cortado,Esmeralda,Rural,Normal,1,0,0,1,2,0
+21369,08/20/2023 12:00:00 AM,20:30:00,Atropello,herido,Ciclista-Motociclista,el machete km 20 + 850,Esmeralda,Rural,Normal,1,0,0,0,1,0
+21370,08/26/2023 12:00:00 AM,3:40:00,Otro,herido,Ciclista-Motociclista,VEREDA SALADITO KM 6 + 300 VIA HATILLO H.S.V.P,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21206,03/03/2023 12:00:00 AM,11:30:00,Volcamiento,herido,Conductor,vereda el porvenir,Papelsa,Rural,Normal,0,0,0,1,1,0
+21207,02/26/2023 12:00:00 AM,7:15:00,Choque,herido,Ciclista-Motociclista,km 10 aproximadamente,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21391,09/21/2023 12:00:00 AM,13:15:00,Choque,herido,Ciclista-Motociclista,tablemac km7 + 7 700,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21172,02/05/2023 12:00:00 AM,18:50:00,Choque,herido,Ciclista-Motociclista,ruta 6205A KM8+400 HATILLO-BARBOSA,Papelsa,Rural,Normal,0,1,0,1,2,0
+21173,02/05/2023 12:00:00 AM,8:55:00,Choque,herido,Ciclista-Motociclista,KM 7+200 HATILLO-BARBOSA,Papelsa,Rural,Normal,0,0,0,1,1,0
+21174,02/04/2023 12:00:00 AM,11:00:00,Atropello,herido,Ciclista-Motociclista,km 7+700 lavaderos,Papelsa,Rural,Normal,1,0,0,0,1,0
+21363,08/12/2023 12:00:00 AM,19:16:00,Atropello,herido,Ciclista-Motociclista,vereda el paraiso via medellin km 20+800 los llanos,Esmeralda,Rural,Normal,1,0,0,1,2,0
+21364,08/16/2023 12:00:00 AM,9:30:00,Choque,herido,Ciclista-Motociclista,KM 1 +600 DE LA 6205 VEREDA LA CUESTA,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21365,08/15/2023 12:00:00 AM,5:50:00,Choque,herido,Ciclista-Motociclista,el machete via medellin llanos de cuiva km 20+800,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+21366,08/15/2023 12:00:00 AM,17:35:00,Choque,herido,Ciclista-Motociclista,vereda isaza km5+100,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21333,07/16/2023 12:00:00 AM,17:50:00,Choque,herido,Ciclista-Motociclista,km 20+950 los llanos medellin,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21334,07/17/2023 12:00:00 AM,3:30:00,Volcamiento,herido,Ciclista-Motociclista,pradera km 17 + 800 via barbosa cisneros,Esmeralda,Rural,Lluvia,0,0,2,1,3,0
+21335,07/17/2023 12:00:00 AM,7:20:00,Choque,herido,Ciclista-Motociclista,via los llanos de cuiba km 27+700 las eses,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21336,07/19/2023 12:00:00 AM,11:05:00,Choque,herido,Ciclista-Motociclista,VEREDA FILO VERDE VIA MEDELLIN LOS LLANOS KM 19+900,Esmeralda,Rural,Normal,0,0,0,2,2,0
+21337,07/22/2023 12:00:00 AM,8:45:00,Atropello,herido,Ciclista-Motociclista,parque de las aguas via medellin llanos de cuiba,Esmeralda,Rural,Normal,1,0,0,0,1,0
+21338,07/20/2023 12:00:00 AM,7:50:00,Choque,herido,Ciclista-Motociclista,KM 22 + 700 MEDELLIN LOS LLANOS HACIENDA EL PROGRESO,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21339,07/19/2023 12:00:00 AM,7:30:00,Choque,herido,Ciclista-Motociclista,machete medellin - llanos km21+900 barbosa,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21340,07/18/2023 12:00:00 AM,7:00:00,Atropello,herido,Ciclista-Motociclista,LOMITA 2 KILOMETRO 22 + 100,Esmeralda,Rural,Normal,1,0,0,0,1,0
+21392,09/11/2023 12:00:00 AM,6:50:00,Choque,herido,Ciclista-Motociclista,el machete kmt 20 + 600,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+21393,09/17/2023 12:00:00 AM,19:10:00,Atropello,herido,Ciclista-Motociclista,EL ECO SECTOR EL AGUACATE,Esmeralda,Rural,Normal,1,0,0,0,1,0
+21182,01/28/2023 12:00:00 AM,17:40:00,Choque,herido,Ciclista-Motociclista,km 36+500 ruta 2510,Papelsa,Rural,Normal,0,0,0,1,1,0
+21394,09/24/2023 12:00:00 AM,18:10:00,Choque,herido,Ciclista-Motociclista,TABLEMAC KM 7 + 900,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21395,09/21/2023 12:00:00 AM,14:30:00,Choque,herido,Ciclista-Motociclista,EL SALADITO 6205 KM 6,Esmeralda,Rural,Normal,0,1,0,0,1,0
+21400,09/30/2023 12:00:00 AM,18:50:00,Choque,herido,Ciclista-Motociclista,buga hatillo pradera km 87700  barbosa,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21175,01/30/2023 12:00:00 AM,0:45:00,Choque,daño,Ciclista-Motociclista,carrera 15 # 15-51,Papelsa,Urbana,Normal,,,,,,
+21176,02/06/2023 12:00:00 AM,12:15:00,Atropello,herido,Ciclista-Motociclista,km 8+200 cra 21,Papelsa,Urbana,Normal,1,0,0,0,1,0
+21177,01/30/2023 12:00:00 AM,0:15:00,Choque,herido,Ciclista-Motociclista,carrera 18 calle 16,Papelsa,Urbana,Normal,0,0,0,1,1,0
+21178,01/19/2023 12:00:00 AM,5:40:00,Choque,herido,Ciclista-Motociclista,CARRERA 21 CALLE 4-225,Papelsa,Urbana,Normal,0,1,0,1,2,0
+21167,01/14/2023 12:00:00 AM,21:40:00,Choque,herido,Ciclista-Motociclista,"km 20+900 medellin- los llanos, puerto mulero",Papelsa,Rural,Normal,0,0,0,1,1,0
+21367,08/06/2023 12:00:00 AM,18:05:00,Volcamiento,herido,Ciclista-Motociclista,VIA CONCEPCION BARBOSA,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21171,02/04/2023 12:00:00 AM,13:30:00,Choque,herido,Ciclista-Motociclista,km 14+560 via concepcion,Papelsa,Rural,Normal,0,0,0,1,1,0
+21187,02/11/2023 12:00:00 AM,14:50:00,Choque,herido,Ciclista-Motociclista,km 29+700 ruta 2510 hatillo- don matias,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21188,02/11/2023 12:00:00 AM,16:00:00,Volcamiento,herido,Conductor,aprox km 30,Papelsa,Rural,Normal,0,0,0,1,1,0
+21404,10/09/2023 12:00:00 AM,19:15:00,Choque,herido,Ciclista-Motociclista,KM 21+900 VIA MEDELLIN - LOS LLANOS,Papelsa,Rural,Normal,0,0,0,1,1,0
+21180,02/06/2023 12:00:00 AM,17:00:00,Choque,herido,Ciclista-Motociclista,sector las sss vila hatillo matasanos km 25+600,Papelsa,Rural,Normal,0,0,0,1,1,0
+21184,02/13/2023 12:00:00 AM,9:00:00,Choque,herido,Ciclista-Motociclista,kilometro 23+600 la frutera,Papelsa,Rural,Normal,0,0,0,1,1,0
+21186,02/06/2023 12:00:00 AM,12:30:00,Volcamiento,herido,Ciclista-Motociclista,calle 10-35 carrera 17,Papelsa,Urbana,Normal,0,0,0,1,1,0
+21398,09/28/2023 12:00:00 AM,19:15:00,Volcamiento,herido,Ciclista-Motociclista,hospital cr 17 10-34 hospital,Esmeralda,Urbana,Lluvia,0,1,0,1,2,0
+21399,09/29/2023 12:00:00 AM,17:00:00,Choque,herido,Ciclista-Motociclista,CR 17 CENTRO CLL20 Y 21,Esmeralda,Urbana,Normal,0,0,0,2,2,0
+21403,10/01/2023 12:00:00 AM,16:40:00,Choque,herido,Ciclista-Motociclista,VEREDA BUGA ENTRADA,Papelsa,Rural,Normal,0,1,0,1,2,0
+21371,08/27/2023 12:00:00 AM,3:20:00,Choque,herido,Ciclista-Motociclista,a la altura del cortado kilometro 000+6,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21412,10/29/2023 12:00:00 AM,16:30:00,Atropello,herido,Ciclista-Motociclista,"CARRERA 15, CALLE 13",Papelsa,Urbana,Normal,1,0,0,0,1,0
+21413,10/20/2023 12:00:00 AM,18:05:00,Choque,herido,Ciclista-Motociclista,medellin- los llanos km 20+900,Papelsa,Rural,Normal,0,0,0,1,1,0
+21183,02/04/2023 12:00:00 AM,17:00:00,Atropello,herido,Conductor,km 4 aproximadamente,Papelsa,Rural,Normal,0,1,0,0,1,0
+21405,10/15/2023 12:00:00 AM,13:19:00,Choque,herido,Ciclista-Motociclista,via medellin llanos de cuiba km 23 paolandia,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21427,10/22/2023 12:00:00 AM,18:40:00,Atropello,herido,Ciclista-Motociclista,kilometro 21+300,Papelsa,Rural,Normal,0,0,0,1,1,0
+21428,11/25/2023 12:00:00 AM,2:40:00,Volcamiento,herido,Ciclista-Motociclista,kilometro 07+900,Papelsa,Rural,Normal,0,0,0,1,1,0
+21401,09/21/2023 12:00:00 AM,7:45:00,Choque,herido,Ciclista-Motociclista,PUENTE LA TASAJERA KM 19+770,Esmeralda,Rural,Normal,0,0,0,1,2,0
+21402,09/23/2023 12:00:00 AM,21:55:00,Atropello,herido,Ciclista-Motociclista,SAN JUDAS KM 22 + 500 MEDELLIN LLANOS,Esmeralda,Rural,Normal,1,0,0,1,2,0
+21269,04/04/2023 12:00:00 AM,13:40:00,Choque,herido,Ciclista-Motociclista,carrea 21 Nro. 4-297,Papelsa,Urbana,Normal,0,0,0,2,2,0
+21270,05/07/2023 12:00:00 AM,22:30:00,Volcamiento,herido,Ciclista-Motociclista,KM 7+500 APROX VEREDA PLATANITO,Papelsa,Rural,Normal,0,0,0,0,1,0
+21273,05/13/2023 12:00:00 AM,14:39:00,Choque,herido,Ciclista-Motociclista,hatillo-barbosa km 15+200 barbosa,Papelsa,Rural,Normal,0,0,0,1,1,0
+21274,05/11/2023 12:00:00 AM,18:30:00,Volcamiento,herido,Ciclista-Motociclista,KM 6+750,Papelsa,Rural,Normal,0,0,0,1,1,0
+21275,05/15/2023 12:00:00 AM,16:40:00,Volcamiento,herido,Ciclista-Motociclista,KM 7+600,Papelsa,Rural,Normal,0,0,0,1,1,0
+21408,10/12/2023 12:00:00 AM,10:00:00,Choque,herido,Ciclista-Motociclista,ruta 2510 km 22+500,Papelsa,Rural,Normal,0,0,0,1,1,0
+21409,10/16/2023 12:00:00 AM,18:50:00,Choque,herido,Ciclista-Motociclista,mk29+300 via medellin - los llanos,Papelsa,Rural,Normal,0,0,2,1,3,0
+21410,10/21/2023 12:00:00 AM,21:19:00,Atropello,herido,Ciclista-Motociclista,carrera 18 con calle 13,Papelsa,Urbana,Normal,1,0,0,0,1,0
+21419,10/19/2023 12:00:00 AM,20:20:00,Atropello,herido,Ciclista-Motociclista,H.S.V.P BARBOSA,Papelsa,Rural,Normal,1,1,0,0,2,0
+21420,10/30/2023 12:00:00 AM,13:00:00,Choque,herido,Ciclista-Motociclista,KM 29+970 VIA MEDELLIN- LOS LLANOS,Papelsa,Rural,Normal,0,0,0,1,1,0
+21421,10/31/2023 12:00:00 AM,20:40:00,Atropello,herido,Ciclista-Motociclista,km 6 via hatillo,Papelsa,Rural,Normal,1,0,0,1,2,0
+21422,11/01/2023 12:00:00 AM,12:00:00,Choque,herido,Ciclista-Motociclista,KM 0+500 VIA COLKIM,Papelsa,Rural,Normal,0,0,0,1,1,0
+21423,11/06/2023 12:00:00 AM,3:55:00,Volcamiento,herido,Ciclista-Motociclista,CR 17 CON CALLE 08,Papelsa,Urbana,Normal,0,1,0,1,2,0
+21424,11/14/2023 12:00:00 AM,16:30:00,Choque,herido,Ciclista-Motociclista,KM 7 + 700   V. CABILDO,Papelsa,Rural,Normal,0,1,0,2,3,0
+21425,11/05/2023 12:00:00 AM,6:30:00,Choque,muerte,Ciclista-Motociclista,KM 20 + 200 MEDELLIN  LOS LLANOS,Papelsa,Rural,Normal,0,1,0,1,1,1
+21438,12/05/2023 12:00:00 AM,11:40:00,Choque,herido,Ciclista-Motociclista,via barbosa- santo domingo,Papelsa,Rural,Normal,0,0,0,1,1,0
+21215,03/09/2023 12:00:00 AM,17:00:00,Atropello,herido,Ciclista-Motociclista,cra 21 # cl 13 Semaforo,Esmeralda,Urbana,Viento,0,0,1,0,1,0
+21216,02/25/2023 12:00:00 AM,17:30:00,Volcamiento,herido,Ciclista-Motociclista,6205 kilometro 14 + 200 mts,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21217,03/13/2023 12:00:00 AM,6:15:00,Atropello,muerte,Ciclista-Motociclista,6205a km 08+500,Esmeralda,Rural,Lluvia,0,1,0,0,0,1
+21298,06/09/2023 12:00:00 AM,12:45:00,Choque,herido,Ciclista-Motociclista,macondo km 4+600,Papelsa,Rural,Normal,0,0,0,1,1,0
+21299,06/08/2023 12:00:00 AM,9:10:00,Choque,herido,Ciclista-Motociclista,llanos de cuiba medellin km 2100 barbosa,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21300,06/10/2023 12:00:00 AM,7:00:00,Choque,herido,Ciclista-Motociclista,km 5 aproximada vereda el cortado,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21301,06/19/2023 12:00:00 AM,12:00:00,Atropello,herido,Ciclista-Motociclista,CR 14 CON CLL 13,Esmeralda,Urbana,Normal,1,0,0,0,1,0
+21302,06/16/2023 12:00:00 AM,10:50:00,Choque,herido,Ciclista-Motociclista,via barbosa cisneros k6 + 900 vereda graciano,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21303,06/17/2023 12:00:00 AM,8:20:00,Choque,herido,Ciclista-Motociclista,kilometri 07+760 pradera hatillo,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21304,06/18/2023 12:00:00 AM,10:10:00,Choque,muerte,Ciclista-Motociclista,kmt 16 + 500 popalito,Esmeralda,Rural,Normal,0,0,1,1,1,1
+21305,06/18/2023 12:00:00 AM,10:20:00,Choque,herido,Ciclista-Motociclista,HATILLO DON MATIAS KM 35+500,Esmeralda,Rural,Normal,0,0,0,2,2,0
+21306,06/19/2023 12:00:00 AM,15:10:00,Volcamiento,herido,Ciclista-Motociclista,,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21307,06/24/2023 12:00:00 AM,17:00:00,Choque,herido,Ciclista-Motociclista,62-05 KM 7+600,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21308,06/25/2023 12:00:00 AM,1:00:00,Caida Ocupante,herido,Ciclista-Motociclista,papelsa kilometro 10 ruta 6205,Esmeralda,Rural,Lluvia,0,0,2,0,2,0
+21415,11/05/2023 12:00:00 AM,18:50:00,Choque,herido,Ciclista-Motociclista,km 3+900 el cortado,Papelsa,Rural,Normal,2,1,3,0,6,0
+21209,02/26/2023 12:00:00 AM,15:45:00,Choque,herido,Ciclista-Motociclista,6205a km 12+850 popalito,Papelsa,Rural,Normal,0,1,0,1,2,0
+21196,02/16/2023 12:00:00 AM,18:40:00,Volcamiento,herido,Ciclista-Motociclista,6205 km 001,Papelsa,Rural,Normal,0,0,0,1,1,0
+21309,07/03/2023 12:00:00 AM,17:50:00,Atropello,herido,Ciclista-Motociclista,calle 13 con cr 14,Esmeralda,Urbana,Lluvia,1,0,0,0,1,0
+21310,06/28/2023 12:00:00 AM,12:00:00,Atropello,herido,Ciclista-Motociclista,km 9 papelsa vereda vallecitos,Esmeralda,Rural,Normal,1,0,0,0,1,0
+21311,06/11/2023 12:00:00 AM,9:30:00,Choque,herido,Ciclista-Motociclista,hatillo pradera km 7+800 barbosa,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21312,06/29/2023 12:00:00 AM,10:00:00,Volcamiento,herido,Ciclista-Motociclista,6205km 5+500 isaza,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21313,07/01/2023 12:00:00 AM,19:35:00,Choque,herido,Ciclista-Motociclista,cr 31 con cll 15,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+21314,06/01/2023 12:00:00 AM,19:40:00,Otro,herido,Ciclista-Motociclista,deprimido parque de las aguas,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21315,07/01/2023 12:00:00 AM,20:30:00,Volcamiento,herido,Ciclista-Motociclista,km 6 aproximadamente,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21316,06/22/2023 12:00:00 AM,7:45:00,Choque,herido,Ciclista-Motociclista,via medellin llanos de cuiba las cometas,Esmeralda,Rural,Lluvia,0,0,0,1,1,0
+21417,10/28/2023 12:00:00 AM,19:45:00,Choque,herido,Ciclista-Motociclista,km 6+200 entrada vereda saladito,Papelsa,Rural,Normal,0,0,0,1,1,0
+21228,04/02/2023 12:00:00 AM,11:00:00,Choque,herido,Ciclista-Motociclista,hatillo-barbosa km 8+700 barbosa,Barrios de Jesús parte alta,Rural,Normal,0,0,0,1,1,0
+21229,04/15/2023 12:00:00 AM,20:55:00,Choque,herido,Ciclista-Motociclista,KM 5+500 APROXIMADAMENTE,Papelsa,Rural,Normal,0,1,0,1,2,0
+21230,04/18/2023 12:00:00 AM,22:30:00,Atropello,herido,Ciclista-Motociclista,calle 17 cr 13 frente a 78,Papelsa,Urbana,Normal,1,0,0,1,2,0
+21231,03/27/2023 12:00:00 AM,20:40:00,Choque,herido,Ciclista-Motociclista,km33+200 hatillo don matias,Papelsa,Rural,Lluvia,0,1,0,0,1,0
+21232,04/02/2023 12:00:00 AM,17:30:00,Choque,muerte,Ciclista-Motociclista,bello-llanos de cuiva lin 281790 barbosa,Papelsa,Rural,Lluvia,0,0,0,1,0,1
+21233,04/09/2023 12:00:00 AM,16:50:00,Atropello,herido,Ciclista-Motociclista,carrera 13 # 10-95,Papelsa,Urbana,Normal,1,0,0,0,1,0
+21234,03/30/2023 12:00:00 AM,18:50:00,Volcamiento,herido,Ciclista-Motociclista,6205 km  8+900,Papelsa,Urbana,Normal,0,0,0,1,1,0
+21235,04/11/2023 12:00:00 AM,16:30:00,Choque,herido,Ciclista-Motociclista,km8+500,Papelsa,Rural,Normal,0,0,0,1,1,0
+21236,04/13/2023 12:00:00 AM,14:40:00,Choque,herido,Ciclista-Motociclista,KM34+600 HATILLO-MATASANOS,Papelsa,Rural,Normal,0,1,0,1,2,0
+21290,06/02/2023 12:00:00 AM,6:50:00,Atropello,herido,Ciclista-Motociclista,via sto domingo km 4+500 aprox,Papelsa,Rural,Normal,1,0,0,0,1,0
+21291,06/02/2023 12:00:00 AM,15:00:00,Volcamiento,herido,Ciclista-Motociclista,popalito 6205 km 16,Vereda Popalito,Rural,Normal,0,1,0,0,1,0
+21454,12/28/2023 12:00:00 AM,15:30:00,Atropello,muerte,Ciclista-Motociclista,la ese,Papelsa,Rural,Normal,2,0,0,0,1,1
+21455,12/31/2023 12:00:00 AM,12:20:00,Choque,herido,Ciclista-Motociclista,los lavaderos km 32+780 via medellin- los llanos,Papelsa,Rural,Normal,0,1,0,1,2,0
+21456,12/31/2023 12:00:00 AM,14:00:00,Choque,herido,Ciclista-Motociclista,ruta 25 an 19 km 6+700,Papelsa,Rural,Normal,0,1,0,1,2,0
+21406,10/13/2023 12:00:00 AM,20:30:00,Choque,herido,Ciclista-Motociclista,via medellin los llanos 32+900,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21407,10/10/2023 12:00:00 AM,8:25:00,Choque,herido,Ciclista-Motociclista,EL HATILLO KMT 00+300,Esmeralda,Rural,Normal,0,0,0,2,2,0
+21166,01/26/2023 12:00:00 AM,1:20:00,Choque,muerte,Ciclista-Motociclista,"2510 kilometro 21+900, lomita 1",Papelsa,Rural,Normal,0,0,0,1,0,1
+21292,06/06/2023 12:00:00 AM,12:30:00,Choque,herido,Ciclista-Motociclista,hatillo barbosa km 21+330,Papelsa,Rural,Normal,0,0,0,1,1,0
+21293,06/05/2023 12:00:00 AM,9:00:00,Volcamiento,herido,Conductor,6205 km 4 el eco,Papelsa,Rural,Normal,0,1,0,0,1,0
+21294,06/20/2023 12:00:00 AM,11:00:00,Choque,muerte,Ciclista-Motociclista,via hatillo-pradera km 4+500,Papelsa,Rural,Normal,0,0,0,1,0,1
+21295,06/07/2023 12:00:00 AM,13:10:00,Atropello,herido,Ciclista-Motociclista,via hatillo-pradera km 6+300,Papelsa,Rural,Normal,1,0,0,0,1,0
+21296,06/13/2023 12:00:00 AM,14:50:00,Choque,herido,Ciclista-Motociclista,KM18+000,Papelsa,Rural,Normal,0,1,0,1,2,0
+21440,12/16/2023 12:00:00 AM,21:20:00,Volcamiento,herido,Ciclista-Motociclista,VEREDA EL OLLO,Papelsa,Rural,Lluvia,0,0,4,0,4,0
+21441,12/24/2023 12:00:00 AM,13:20:00,Atropello,herido,Ciclista-Motociclista,km12+100 senrido norte sur vereda el paraiso,Papelsa,Rural,Normal,1,0,0,0,1,0
+21442,12/31/2023 12:00:00 AM,12:00:00,Choque,herido,Ciclista-Motociclista,cx-6205b km+000 inc,Papelsa,Rural,Normal,0,1,0,1,2,0
+21443,12/23/2023 12:00:00 AM,9:20:00,Atropello,herido,Ciclista-Motociclista,via barbosa cisneros kilometro 6+200- popalito,Papelsa,Rural,Normal,1,0,0,1,2,0
+21445,12/31/2023 12:00:00 AM,14:00:00,Choque,herido,Ciclista-Motociclista,VEREDA SAN EUGENIO,Papelsa,Rural,Niebla,0,1,0,1,2,0
+21446,12/28/2023 12:00:00 AM,17:30:00,Atropello,herido,Ciclista-Motociclista,calle 11 # 19-29,Papelsa,Urbana,Normal,0,0,1,0,1,0
+21447,12/16/2023 12:00:00 AM,14:15:00,Choque,herido,Ciclista-Motociclista,medellin-lllanos de cuiva km 29+950,Papelsa,Rural,Lluvia,0,0,1,0,1,0
+21220,03/18/2023 12:00:00 AM,18:40:00,Choque,herido,Ciclista-Motociclista,ruta 6502 km 14,Esmeralda,Rural,Normal,0,0,1,0,1,0
+21221,03/19/2023 12:00:00 AM,2:50:00,Volcamiento,herido,Ciclista-Motociclista,ruta 2501 hm 9 +100 via platanito,Esmeralda,Rural,Viento,0,0,0,1,1,0
+21222,03/14/2023 12:00:00 AM,4:00:00,Volcamiento,herido,Ciclista-Motociclista,vereda vallecitos,Esmeralda,Rural,Viento,0,0,0,1,1,0
+21223,03/18/2023 12:00:00 AM,23:30:00,Volcamiento,herido,Ciclista-Motociclista,cr 14 cl 16,Esmeralda,Urbana,Viento,0,0,0,1,1,0
+21224,03/15/2023 12:00:00 AM,20:00:00,Caida Ocupante,herido,Ciclista-Motociclista,calle 16 con carrera 13,Papelsa,Urbana,Normal,0,0,0,1,1,0
+21225,03/20/2023 12:00:00 AM,18:00:00,Volcamiento,herido,Ciclista-Motociclista,el hatillo,Parque Principal,Rural,Normal,0,0,1,1,2,0
+21226,03/23/2023 12:00:00 AM,17:00:00,Volcamiento,herido,Ciclista-Motociclista,6205 km 3 + 800,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21227,03/23/2023 12:00:00 AM,8:00:00,Volcamiento,herido,Ciclista-Motociclista,calle 13 con carerra 19,Esmeralda,Urbana,Normal,0,0,1,0,1,0
+21297,06/20/2023 12:00:00 AM,10:10:00,Choque,herido,Ciclista-Motociclista,km 2 sector recta de leon,Papelsa,Rural,Normal,0,0,0,1,1,0
+21433,12/10/2023 12:00:00 AM,15:10:00,Choque,herido,Ciclista-Motociclista,km 22+380 llanos cuiva-medellin,Papelsa,Rural,Normal,0,0,1,2,3,0
+21434,12/03/2023 12:00:00 AM,10:05:00,Choque,herido,Ciclista-Motociclista,km 35+800 medellin llanos de cuiva- alto de matasanos,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21258,05/02/2023 12:00:00 AM,18:21:00,Volcamiento,herido,Ciclista-Motociclista,km 0+200 mts via c kimberly,Papelsa,Rural,Normal,0,1,0,1,2,0
+21259,05/07/2023 12:00:00 AM,16:45:00,Atropello,herido,Ciclista-Motociclista,ruta 6205 papelsa k 9+900,Vereda Papelsa,Rural,Normal,1,0,0,0,1,0
+21260,05/07/2023 12:00:00 AM,18:40:00,Choque,herido,Ciclista-Motociclista,CAS carrera 21 cll 11,Papelsa,Urbana,Normal,0,1,0,0,1,0
+21261,05/03/2023 12:00:00 AM,16:40:00,Volcamiento,herido,Ciclista-Motociclista,6205 km 8 aprox,Papelsa,Rural,Normal,0,1,0,1,2,0
+21262,05/02/2023 12:00:00 AM,0:20:00,Choque,herido,Ciclista-Motociclista,el machete km 20 hatillo-bello,Papelsa,Rural,Normal,0,1,0,1,2,0
+21263,05/08/2023 12:00:00 AM,20:50:00,Choque,herido,Ciclista-Motociclista,sector cestillal via hatillo- matasanos k 33+400,Papelsa,Rural,Normal,0,1,0,1,2,0
+21264,05/08/2023 12:00:00 AM,11:50:00,Otro,herido,Ciclista-Motociclista,tablemac km 07+500,Papelsa,Rural,Normal,0,1,0,0,1,0
+21265,05/06/2023 12:00:00 AM,16:30:00,Choque,herido,Ciclista-Motociclista,VIA HATILLO -PRADERA KM 41+800,Papelsa,Rural,Normal,0,0,0,1,1,0
+21266,04/05/2023 12:00:00 AM,10:45:00,Caida Ocupante,herido,Ciclista-Motociclista,KM 2 VEREDA LA CHORRERA,Papelsa,Rural,Normal,0,1,0,0,1,0
+21287,06/04/2023 12:00:00 AM,1:00:00,Volcamiento,herido,Ciclista-Motociclista,vereda tamborcito km 10 recta leon,Papelsa,Rural,Normal,0,0,0,1,1,0
+21139,01/09/2023 12:00:00 AM,18:00:00,Choque,herido,Ciclista-Motociclista,via hatillo- pradera km 6+500,Papelsa,Rural,Normal,0,0,0,1,1,0
+21255,05/01/2023 12:00:00 AM,21:40:00,Atropello,herido,Ciclista-Motociclista,el paraiso km 20+900,Papelsa,Rural,Normal,1,0,0,1,2,0
+21288,06/03/2023 12:00:00 AM,6:50:00,Volcamiento,herido,Conductor,TR 6205 KM 10,Papelsa,Rural,Normal,0,0,0,1,1,0
+21289,05/28/2023 12:00:00 AM,4:20:00,Volcamiento,herido,Ciclista-Motociclista,tr6205 km 5+200,Papelsa,Rural,Viento,0,0,0,1,1,0
+21418,10/23/2023 12:00:00 AM,12:00:00,Atropello,herido,Ciclista-Motociclista,km 32+600 via medellin- los llanos,Papelsa,Rural,Normal,2,0,0,0,2,0
+21153,01/04/2023 12:00:00 AM,16:20:00,Volcamiento,herido,Ciclista-Motociclista,vereda las beatrices,Papelsa,Rural,Normal,0,1,0,0,1,0
+21154,01/21/2023 12:00:00 AM,7:10:00,Choque,herido,Ciclista-Motociclista,san judas km 22+100 medellin-los llanos,Papelsa,Rural,Normal,0,0,0,1,1,0
+21155,01/04/2023 12:00:00 AM,22:15:00,Volcamiento,herido,Ciclista-Motociclista,vereda platanito  km 6+750,Papelsa,Rural,Normal,0,0,0,1,1,0
+21156,01/21/2023 12:00:00 AM,10:35:00,Choque,herido,Ciclista-Motociclista,las sss 2510 km 26+650,Papelsa,Rural,Normal,0,2,0,2,4,0
+21253,04/03/2023 12:00:00 AM,22:30:00,Choque,herido,Ciclista-Motociclista,ruta 6205 km 6 + 200,Esmeralda,Rural,Normal,0,0,1,2,3,0
+21254,04/06/2023 12:00:00 AM,8:10:00,Choque,herido,Ciclista-Motociclista,6205a kilometro 15 + 550,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21431,12/03/2023 12:00:00 AM,20:00:00,Choque,herido,Ciclista-Motociclista,6205 km 5+200,Papelsa,Rural,Normal,0,0,0,1,1,0
+21432,11/27/2023 12:00:00 AM,13:45:00,Choque,herido,Ciclista-Motociclista,km 3+600,Papelsa,Rural,Normal,0,0,0,1,1,0
+21448,12/29/2023 12:00:00 AM,14:30:00,Caida Ocupante,herido,Ciclista-Motociclista,via san jose km 15+00,Papelsa,Rural,Normal,0,1,0,0,1,0
+21449,12/23/2023 12:00:00 AM,9:25:00,Choque,herido,Ciclista-Motociclista,km 22+900 sentido norte- sur,Papelsa,Rural,Normal,0,0,0,1,1,0
+21450,12/25/2023 12:00:00 AM,18:25:00,Atropello,herido,Ciclista-Motociclista,sentido norte sur km 20+900 medellin- los llanos,Papelsa,Rural,Normal,1,0,0,0,1,0
+21190,02/05/2023 12:00:00 AM,17:40:00,Choque,herido,Ciclista-Motociclista,kilometro 3+600,Papelsa,Rural,Normal,0,1,0,1,2,0
+21191,02/14/2023 12:00:00 AM,9:50:00,Caida Ocupante,herido,Ciclista-Motociclista,vereda la tolda,Papelsa,Rural,Normal,0,0,2,0,2,0
+21192,02/08/2023 12:00:00 AM,6:15:00,Volcamiento,herido,Ciclista-Motociclista,km0+500,Parque Principal,Rural,Normal,0,0,0,1,1,0
+21271,05/09/2023 12:00:00 AM,18:30:00,Choque,herido,Ciclista-Motociclista,km 04+200 el eco,Papelsa,Rural,Normal,0,0,0,1,1,0
+21272,05/15/2023 12:00:00 AM,12:00:00,Choque,herido,Ciclista-Motociclista,km 6 + 900 via hatillo,Papelsa,Rural,Normal,0,0,0,1,1,0
+21282,06/01/2023 12:00:00 AM,20:00:00,Atropello,herido,Ciclista-Motociclista,tramo 6205 km 0+500,Papelsa,Rural,Normal,1,0,0,0,1,0
+21283,06/02/2023 12:00:00 AM,21:44:00,Atropello,herido,Ciclista-Motociclista,carrera 16 calle 17,Papelsa,Urbana,Normal,3,0,0,0,3,0
+21284,06/02/2023 12:00:00 AM,6:10:00,Choque,herido,Ciclista-Motociclista,via santo domingo km 2+400,Papelsa,Rural,Normal,0,0,0,1,1,0
+21285,05/27/2023 12:00:00 AM,22:00:00,Volcamiento,herido,Ciclista-Motociclista,puente colkin carrera 21,Papelsa,Urbana,Viento,0,0,0,1,1,0
+21323,07/08/2023 12:00:00 AM,13:00:00,Choque,herido,Ciclista-Motociclista,hatillo 25 an 19 km1,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21324,07/04/2023 12:00:00 AM,7:30:00,Choque,herido,Ciclista-Motociclista,via medellin los llanos 1km 34+900,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21189,02/12/2023 12:00:00 AM,15:20:00,Volcamiento,herido,Ciclista-Motociclista,ruta6205 km 33,Papelsa,Rural,Normal,0,0,0,1,1,0
+21199,02/21/2023 12:00:00 AM,18:10:00,Choque,herido,Ciclista-Motociclista,km30+800 hatillo- llanos de cuiba,Papelsa,Rural,Normal,0,1,0,1,2,0
+21200,02/24/2023 12:00:00 AM,7:30:00,Choque,herido,Conductor,6205 km 1,Papelsa,Rural,Normal,0,0,0,1,1,0
+21201,02/26/2023 12:00:00 AM,17:00:00,Volcamiento,herido,Conductor,vereda la cuesta,Papelsa,Rural,Normal,0,0,0,1,1,0
+21203,03/01/2023 12:00:00 AM,7:10:00,Choque,herido,Ciclista-Motociclista,kolkim vereda canaan,Papelsa,Rural,Normal,0,0,0,1,1,0
+21204,02/19/2023 12:00:00 AM,17:50:00,Choque,herido,Ciclista-Motociclista,ruta 6205 km 13 vereda yarumito,Papelsa,Rural,Normal,0,0,0,2,2,0
+21205,02/24/2023 12:00:00 AM,20:40:00,Choque,herido,Ciclista-Motociclista,via hatillo- bello km 22+600,Papelsa,Rural,Normal,0,0,0,1,1,0
+21210,03/15/2023 12:00:00 AM,8:30:00,Choque,herido,Ciclista-Motociclista,ruta 6205 km 1+500 aproximadamente,Papelsa,Rural,Normal,0,0,0,1,1,0
+21211,03/10/2023 12:00:00 AM,20:00:00,Volcamiento,herido,Ciclista-Motociclista,6205 km 4 + 500 mts via hatillo,Parque Principal,Rural,Normal,0,0,1,0,1,0
+21212,03/14/2023 12:00:00 AM,16:00:00,Volcamiento,herido,Ciclista-Motociclista,calle 16 cra 13,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+21213,03/12/2023 12:00:00 AM,17:40:00,Choque,herido,Ciclista-Motociclista,2510 km + 21 +800,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21214,03/15/2023 12:00:00 AM,11:45:00,Choque,herido,Ciclista-Motociclista,6205A km 8 + 500,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21256,04/06/2023 12:00:00 AM,15:30:00,Choque,muerte,Ciclista-Motociclista,sector los blanquiados,Papelsa,Rural,Normal,0,1,0,1,1,1
+21257,04/28/2023 12:00:00 AM,23:15:00,Choque,herido,Ciclista-Motociclista,el machete,Papelsa,Rural,Lluvia,0,0,0,1,1,0
+21372,09/03/2023 12:00:00 AM,18:45:00,Choque,muerte,Ciclista-Motociclista,DOS QUEBRADAS KM 10 + 600,Esmeralda,Rural,Normal,0,0,0,1,0,1
+21373,09/03/2023 12:00:00 AM,15:10:00,Choque,herido,Ciclista-Motociclista,corrgimiento el hatillo km 1+200 via el hatillo,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21374,09/01/2023 12:00:00 AM,19:30:00,Caida Ocupante,herido,Ciclista-Motociclista,ve reda el paraiso,Esmeralda,Rural,Normal,0,1,0,0,1,0
+21375,08/31/2023 12:00:00 AM,17:10:00,Choque,herido,Ciclista-Motociclista,,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21376,08/31/2023 12:00:00 AM,17:30:00,Volcamiento,herido,Ciclista-Motociclista,SECTOR POPALITO,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21377,08/30/2023 12:00:00 AM,7:30:00,Volcamiento,herido,Ciclista-Motociclista,vereda saladito km 4 + 300 aproximados,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21429,12/03/2023 12:00:00 AM,7:42:00,Volcamiento,herido,Ciclista-Motociclista,vereda popalito km 7 aproximadamente,Vereda Popalito,Rural,Normal,0,0,0,1,1,0
+21145,01/02/2023 12:00:00 AM,14:50:00,Choque,herido,Ciclista-Motociclista,km 36+200 medellin- llanos de cuiva,Papelsa,Rural,Normal,0,0,1,1,2,0
+21267,04/28/2023 12:00:00 AM,17:00:00,Choque,muerte,Ciclista-Motociclista,VIA HATILLO- MATASANOS KM 24+100,Papelsa,Rural,Normal,0,0,0,2,1,1
+21276,05/21/2023 12:00:00 AM,20:15:00,Choque,muerte,Ciclista-Motociclista,T/T BARBOSA KM 4+100,Papelsa,Rural,Normal,0,1,0,0,0,1
+21277,05/21/2023 12:00:00 AM,10:00:00,Choque,herido,Ciclista-Motociclista,km 10 aprox,Papelsa,Rural,Normal,0,0,0,1,1,0
+21278,05/17/2023 12:00:00 AM,19:00:00,Volcamiento,herido,Ciclista-Motociclista,km4 25AN19,Papelsa,Rural,Normal,0,0,0,1,1,0
+21435,12/07/2023 12:00:00 AM,17:30:00,Choque,herido,Ciclista-Motociclista,km 0 +400 ing a barbosa,Papelsa,Rural,Normal,0,1,0,1,2,0
+21436,12/10/2023 12:00:00 AM,7:30:00,Caida Ocupante,herido,Conductor,sin especificar en el ipat,Papelsa,Rural,Normal,0,0,1,0,1,0
+21437,12/03/2023 12:00:00 AM,22:00:00,Volcamiento,herido,Ciclista-Motociclista,k8+700,Papelsa,Rural,Viento,0,1,0,1,2,0
+21439,12/16/2023 12:00:00 AM,18:15:00,Choque,herido,Ciclista-Motociclista,KM 5+800 APROXIMADAMENTE (VEREDA SALADITO),Papelsa,Rural,Normal,0,0,0,1,1,0
+21378,09/05/2023 12:00:00 AM,17:50:00,Atropello,herido,Ciclista-Motociclista,hatillo km 1 + 400 aprx,Esmeralda,Rural,Normal,1,0,0,0,1,0
+21379,09/03/2023 12:00:00 AM,5:00:00,Choque,herido,Ciclista-Motociclista,kimberly cr 21 cll 20 aprox,Esmeralda,Urbana,Normal,0,0,0,1,1,0
+21380,09/08/2023 12:00:00 AM,0:15:00,Caida Ocupante,herido,Ciclista-Motociclista,HATILLO KMT8+300,Esmeralda,Rural,Normal,0,1,0,0,1,0
+21381,09/02/2023 12:00:00 AM,1:45:00,Choque,herido,Ciclista-Motociclista,ARENERA BARBOSA CONCEPCION KM 2 + 610 APROX,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21382,08/28/2023 12:00:00 AM,15:00:00,Choque,herido,Ciclista-Motociclista,PARQUE DE LAS AGUAS K19+600,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21147,01/10/2023 12:00:00 AM,11:30:00,Choque,herido,Ciclista-Motociclista,ruta 2510 km 32+700,Papelsa,Rural,Lluvia,0,0,0,1,1,0
+21150,01/12/2023 12:00:00 AM,16:40:00,Volcamiento,herido,Conductor,6205 km 9 aprox,Papelsa,Rural,Normal,0,0,0,1,1,0
+21151,01/08/2023 12:00:00 AM,11:30:00,Volcamiento,herido,Conductor,km 7+400 aproximadamente,Papelsa,Rural,Normal,0,0,1,1,2,0
+21218,03/21/2023 12:00:00 AM,17:35:00,Volcamiento,herido,Ciclista-Motociclista,ruta 6205 km 06+100,Papelsa,Rural,Normal,0,0,0,1,1,0
+21219,03/18/2023 12:00:00 AM,14:15:00,Choque,herido,Ciclista-Motociclista,ruta6205 kilometro 7+400,Papelsa,Rural,Normal,0,0,0,1,1,0
+21426,11/18/2023 12:00:00 AM,22:40:00,Otro,herido,Ciclista-Motociclista,KILOMETRO 19 + 500 MEDELLIN - LLANOS,Papelsa,Rural,Normal,2,1,0,1,4,0
+21430,12/03/2023 12:00:00 AM,19:00:00,Volcamiento,herido,Ciclista-Motociclista,aguas claras parte baja,Papelsa,Rural,Normal,0,1,0,1,2,0
+21325,07/07/2023 12:00:00 AM,12:10:00,Choque,herido,Ciclista-Motociclista,carrera 15 calle10,Esmeralda,Urbana,Normal,0,0,1,2,3,0
+21326,07/09/2023 12:00:00 AM,19:50:00,Choque,herido,Ciclista-Motociclista,via pradera hatillo k 15+160,Esmeralda,Rural,Normal,0,0,1,1,2,0
+21327,07/09/2023 12:00:00 AM,16:50:00,Choque,herido,Ciclista-Motociclista,ruta 6205 kilometro 4 + 000 vereda el eco,Esmeralda,Rural,Normal,0,1,0,1,2,0
+21328,07/07/2023 12:00:00 AM,8:00:00,Choque,herido,Ciclista-Motociclista,via hatillo bello k23 + 300,Esmeralda,Rural,Normal,0,0,0,1,1,0
+21383,09/12/2023 12:00:00 AM,18:00:00,Choque,herido,Ciclista-Motociclista,VEREDA PLATANITO,Esmeralda,Rural,Normal,0,0,0,1,1,0
